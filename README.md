@@ -147,7 +147,7 @@ See `reports/supply_chain_dashboard.png` — 8-panel dashboard covering:
 ## 📌 Author
 
 **Chetan** | Data Analyst  
-📧 [Your Email] | 🔗 [LinkedIn URL] | 💻 [GitHub URL]
+📧 chetan.g.patil1622@gmail.com 
 
 ---
 *Project built as part of Data Analyst Portfolio — Oct 2024*
