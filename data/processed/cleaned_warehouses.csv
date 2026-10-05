@@ -1,0 +1,21 @@
+warehouse_id,warehouse_name,city,state,region,capacity_units,current_utilization_pct,monthly_cost_inr,utilization_status
+WH-01,Delhi North Warehouse,Delhi,Delhi,North,49011,83.2,239013,High
+WH-02,Bengaluru North Warehouse,Bengaluru,Karnataka,South,46146,80.2,1409728,High
+WH-03,Chennai East Warehouse,Chennai,Tamil Nadu,South,37715,55.6,761902,Normal
+WH-04,Hyderabad East Warehouse,Hyderabad,Telangana,South,46807,71.6,1387232,High
+WH-05,Pune North Warehouse,Pune,Maharashtra,West,46075,48.0,963939,Normal
+WH-06,Ahmedabad North Warehouse,Ahmedabad,Gujarat,West,35309,52.4,1765384,Normal
+WH-07,Kolkata East Warehouse,Kolkata,West Bengal,East,49912,83.3,1060378,High
+WH-08,Jaipur Central Warehouse,Jaipur,Rajasthan,North,25883,88.0,1529442,Overloaded
+WH-09,Lucknow South Warehouse,Lucknow,Uttar Pradesh,North,18340,87.3,1927446,Overloaded
+WH-10,Surat South Warehouse,Surat,Gujarat,West,23811,77.3,1640439,High
+WH-11,Nagpur North Warehouse,Nagpur,Maharashtra,Central,44402,56.8,438149,Normal
+WH-12,Bhopal North Warehouse,Bhopal,Madhya Pradesh,Central,14827,54.6,1871524,Normal
+WH-13,Patna East Warehouse,Patna,Bihar,East,25351,68.2,1085038,Normal
+WH-14,Kochi North Warehouse,Kochi,Kerala,South,47396,90.3,534198,Overloaded
+WH-15,Mumbai South Warehouse,Mumbai,Maharashtra,West,22872,51.8,1856057,Normal
+WH-16,Delhi North Warehouse,Delhi,Delhi,North,23204,77.9,1551182,High
+WH-17,Bengaluru East Warehouse,Bengaluru,Karnataka,South,7767,93.2,1840463,Overloaded
+WH-18,Chennai Central Warehouse,Chennai,Tamil Nadu,South,6304,47.8,858306,Normal
+WH-19,Hyderabad Central Warehouse,Hyderabad,Telangana,South,44426,59.9,1053555,Normal
+WH-20,Pune Central Warehouse,Pune,Maharashtra,West,28818,78.6,1032349,High

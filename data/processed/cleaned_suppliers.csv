@@ -1,0 +1,201 @@
+supplier_id,supplier_name,city,state,region,gstin,contact_email,payment_terms_days,quality_rating,on_time_delivery_rate,supplier_tier
+SUP-001,Murthy-Dyal Exports Ltd,Lucknow,Uttar Pradesh,North,09HBBYL5546E1Z6,riyadass@example.com,45,4.3,98.8,Preferred
+SUP-002,Mitra PLC Distributors,Bengaluru,Karnataka,South,29YXKFS1751L1Z1,annenathaniel@example.net,90,3.9,74.6,At-Risk
+SUP-003,Roy-Karnik Industries Ltd,Lucknow,Uttar Pradesh,North,09ZRQAR4354E1Z4,xdevi@example.org,45,3.3,87.1,Standard
+SUP-004,Ravi-Grover Logistics Pvt Ltd,Delhi,Delhi,North,07RHPDV1711D1Z8,padmanabhangavin@example.net,45,4.5,67.7,At-Risk
+SUP-005,Bir-Krishna Exports Ltd,Chennai,Tamil Nadu,South,33JKEOX6420C1Z2,sibaloeshi@example.com,30,4.8,92.6,Preferred
+SUP-006,Pillai PLC Supply Chain Pvt Ltd,Bhopal,Madhya Pradesh,Central,23NSCGG9240F1Z1,qanne@example.net,45,3.3,93.2,Preferred
+SUP-007,Gour-Comar Supply Chain Pvt Ltd,Delhi,Delhi,North,07CTBWR1346X1Z2,vbalan@example.org,30,2.3,74.5,At-Risk
+SUP-008,Handa-Srinivas Exports Ltd,Ahmedabad,Gujarat,West,24ZHKWU6716B1Z3,matwal@example.com,90,4.0,64.0,At-Risk
+SUP-009,"Narula, Chaudhuri and Atwal Distributors",Bengaluru,Karnataka,South,29PUPWW7844N1Z8,vbhattacharyya@example.com,45,2.0,61.8,At-Risk
+SUP-010,"Devan, Baria and Chana Logistics Pvt Ltd",Patna,Bihar,East,10RTOOZ6357D1Z7,amannan@example.com,60,3.0,85.8,Standard
+SUP-011,Bansal Inc Exports Ltd,Surat,Gujarat,West,24QDVXP0954P1Z3,yuvrajbansal@example.org,45,2.7,62.9,At-Risk
+SUP-012,Chandra and Sons Exports Ltd,Hyderabad,Telangana,South,36BFQKG4848O1Z6,wshukla@example.com,15,2.3,64.6,At-Risk
+SUP-013,Bhakta PLC Industries Ltd,Ahmedabad,Gujarat,West,24AOVUZ6856O1Z6,bhavsaralka@example.com,30,4.5,74.2,At-Risk
+SUP-014,"Parikh, Mallick and Baral Supply Chain Pvt Ltd",Pune,Maharashtra,West,27OQMRS1723U1Z5,omaja20@example.org,15,2.1,81.4,Standard
+SUP-015,"Swamy, Rajagopal and Kant Enterprises Pvt Ltd",Bengaluru,Karnataka,South,29MVTKG1182Z1Z4,harrisonbatta@example.net,60,2.1,88.0,Standard
+SUP-016,Sinha and Sons Exports Ltd,Surat,Gujarat,West,24VPULR9145B1Z9,lalakeya@example.com,90,4.3,96.5,Preferred
+SUP-017,"Pradhan, Dara and Nath Supply Chain Pvt Ltd",Kochi,Kerala,South,32EPSDK6853T1Z4,parth00@example.net,45,3.4,70.7,At-Risk
+SUP-018,Hora-Arora Distributors,Bengaluru,Karnataka,South,29DPXNV5375G1Z4,jpadmanabhan@example.com,45,4.8,68.2,At-Risk
+SUP-019,Sarna-Ganguly Distributors,Bengaluru,Karnataka,South,29ZQYNS3134S1Z7,advaykhanna@example.com,60,4.4,86.3,Standard
+SUP-020,"Batra, Sabharwal and Contractor Industries Ltd",Jaipur,Rajasthan,North,08CJBBG7961B1Z5,sandalrajata@example.org,45,4.4,68.0,At-Risk
+SUP-021,Manne Ltd Warehousing Ltd,Delhi,Delhi,North,07QROFQ3576W1Z1,rbhatt@example.org,60,4.9,96.1,Preferred
+SUP-022,Grover LLC Logistics Pvt Ltd,Surat,Gujarat,West,24IOAGQ7889W1Z6,vyashemani@example.org,30,2.9,89.4,Preferred
+SUP-023,Guha-Gole Trading Co,Bengaluru,Karnataka,South,29ZBZTD0221I1Z1,thakkarchristopher@example.com,15,2.5,72.9,At-Risk
+SUP-024,Nazareth PLC Enterprises Pvt Ltd,Pune,Maharashtra,West,27PUQVH7507Q1Z4,kotaanthony@example.com,90,2.5,97.3,Preferred
+SUP-025,Bava-Sengupta Supply Chain Pvt Ltd,Jaipur,Rajasthan,North,08NCFFI3275R1Z1,peter53@example.org,60,2.7,64.5,At-Risk
+SUP-026,"Pant, Sanghvi and Natarajan Supply Chain Pvt Ltd",Surat,Gujarat,West,24PQYRI9935J1Z1,tejas17@example.org,90,4.4,95.5,Preferred
+SUP-027,Banik-Ghosh Logistics Pvt Ltd,Kolkata,West Bengal,East,19MHQIC0975U1Z2,wriddhishdhawan@example.net,60,4.5,68.2,At-Risk
+SUP-028,Sur-Savant Industries Ltd,Chennai,Tamil Nadu,South,33NSZUQ9714K1Z1,bahlchristopher@example.com,30,4.4,63.4,At-Risk
+SUP-029,Madan Group Industries Ltd,Jaipur,Rajasthan,North,08BVXKL4331A1Z2,amara07@example.com,15,3.1,89.5,Preferred
+SUP-030,"Kadakia, Halder and Ravel Warehousing Ltd",Jaipur,Rajasthan,North,08CUHCT4364R1Z4,kabirapte@example.net,90,2.9,65.3,At-Risk
+SUP-031,Rege Group Warehousing Ltd,Surat,Gujarat,West,24DRXUS3955D1Z1,madhav50@example.com,90,3.6,60.2,At-Risk
+SUP-032,Bhandari and Sons Industries Ltd,Delhi,Delhi,North,07HTXIK6512I1Z4,basuadya@example.org,90,3.4,64.5,At-Risk
+SUP-033,Krishnan-Sami Supply Chain Pvt Ltd,Jaipur,Rajasthan,North,08BRGFP9362J1Z2,charchanakya@example.org,60,3.4,95.1,Preferred
+SUP-034,Kashyap PLC Supply Chain Pvt Ltd,Lucknow,Uttar Pradesh,North,09RSDOV9137W1Z7,venkateshjanani@example.org,30,4.0,70.8,At-Risk
+SUP-035,Ganguly-Mittal Enterprises Pvt Ltd,Pune,Maharashtra,West,27WMJHO1688E1Z9,cchada@example.org,15,4.7,67.7,At-Risk
+SUP-036,"Nayar, Dass and Kalla Logistics Pvt Ltd",Patna,Bihar,East,10NAPKP9559P1Z3,waidadivan@example.net,90,4.2,74.3,At-Risk
+SUP-037,Manne-Trivedi Trading Co,Hyderabad,Telangana,South,36DNCJA2996Y1Z9,girikdar@example.org,30,3.7,65.5,At-Risk
+SUP-038,Balasubramanian-Vyas Supply Chain Pvt Ltd,Lucknow,Uttar Pradesh,North,09RZTMJ2403B1Z4,aadi68@example.com,60,3.4,80.2,Standard
+SUP-039,Shere-Sagar Warehousing Ltd,Kolkata,West Bengal,East,19WBQCZ6275S1Z3,vnigam@example.org,45,3.8,74.7,At-Risk
+SUP-040,Nagar-Varma Trading Co,Kochi,Kerala,South,32VNJXN3844T1Z1,riya84@example.org,60,2.5,79.6,Standard
+SUP-041,Purohit-Khare Exports Ltd,Delhi,Delhi,North,07NHDEP8643D1Z8,deepachaudry@example.net,30,3.8,86.3,Standard
+SUP-042,"Karpe, More and Uppal Warehousing Ltd",Surat,Gujarat,West,24VABOE6050I1Z3,zarnabora@example.net,90,4.9,80.1,Standard
+SUP-043,"Bakshi, Shetty and Vohra Trading Co",Surat,Gujarat,West,24ASRHC4981N1Z3,wkrishnan@example.org,90,4.0,91.0,Preferred
+SUP-044,Bhatt and Sons Enterprises Pvt Ltd,Hyderabad,Telangana,South,36ERXPB3105Q1Z7,bahrinaksh@example.com,30,3.4,92.2,Preferred
+SUP-045,Vig-Swaminathan Supply Chain Pvt Ltd,Lucknow,Uttar Pradesh,North,09PWNTC6950Y1Z7,fprabhakar@example.net,15,4.1,80.4,Standard
+SUP-046,Wable LLC Logistics Pvt Ltd,Ahmedabad,Gujarat,West,24FUUJP7760E1Z5,fariq54@example.net,15,2.8,78.6,Standard
+SUP-047,Oommen-Chadha Enterprises Pvt Ltd,Kochi,Kerala,South,32OGATA5532Z1Z6,gluthra@example.com,30,3.3,75.9,Standard
+SUP-048,"Raja, Aurora and Gole Exports Ltd",Lucknow,Uttar Pradesh,North,09GWLJH6747P1Z3,lohitchoudhury@example.net,45,5.0,74.4,At-Risk
+SUP-049,"Dubey, Deep and Chhabra Supply Chain Pvt Ltd",Lucknow,Uttar Pradesh,North,09ISTWR7461G1Z9,aishanisavant@example.org,90,3.8,75.6,Standard
+SUP-050,"Mody, Chacko and Rajagopal Industries Ltd",Surat,Gujarat,West,24SEZAC1940H1Z6,shethekani@example.net,60,4.8,63.1,At-Risk
+SUP-051,Varghese Inc Industries Ltd,Ahmedabad,Gujarat,West,24PNSPY8642V1Z9,qushidara@example.net,90,3.5,71.2,At-Risk
+SUP-052,Malhotra Ltd Industries Ltd,Nagpur,Maharashtra,Central,27GEAGA1973M1Z7,usami@example.org,15,4.8,82.9,Standard
+SUP-053,Keer-Bhatt Warehousing Ltd,Jaipur,Rajasthan,North,08HVXJZ2619S1Z1,surigayathri@example.org,90,2.3,70.2,At-Risk
+SUP-054,"Grewal, Pillay and Keer Supply Chain Pvt Ltd",Delhi,Delhi,North,07NIDNG5724M1Z8,xjaggi@example.org,60,4.0,90.0,Preferred
+SUP-055,"Goel, Ray and Bhandari Distributors",Kochi,Kerala,South,32PADBQ9623L1Z9,panthemal@example.net,30,2.9,80.9,Standard
+SUP-056,"Keer, Sibal and Balan Logistics Pvt Ltd",Ahmedabad,Gujarat,West,24RVBYM3829V1Z4,mprasad@example.net,30,4.2,79.5,Standard
+SUP-057,"Patla, Sanghvi and Sethi Industries Ltd",Patna,Bihar,East,10GFVVJ7109P1Z1,rhanda@example.org,60,3.1,89.8,Preferred
+SUP-058,"Kala, Gole and Salvi Warehousing Ltd",Pune,Maharashtra,West,27MZXWM9922S1Z3,miteshsuresh@example.net,60,4.8,62.1,At-Risk
+SUP-059,Dhar-Bajaj Supply Chain Pvt Ltd,Mumbai,Maharashtra,West,27NKREZ6460G1Z7,manankant@example.org,45,3.8,82.7,Standard
+SUP-060,"Khare, Barad and Loyal Trading Co",Hyderabad,Telangana,South,36EGHYI1447L1Z7,vaidyaudyati@example.com,90,2.4,70.9,At-Risk
+SUP-061,Parmar PLC Exports Ltd,Lucknow,Uttar Pradesh,North,09RVSUO8187P1Z1,pandyaupkaar@example.net,30,5.0,66.9,At-Risk
+SUP-062,Golla PLC Enterprises Pvt Ltd,Patna,Bihar,East,10QNIMG8001G1Z5,netra46@example.org,60,4.2,78.6,Standard
+SUP-063,Bhavsar-Varghese Distributors,Hyderabad,Telangana,South,36JOYGA1891S1Z9,nagarajanvrishti@example.com,45,3.0,66.8,At-Risk
+SUP-064,Vaidya-Dua Warehousing Ltd,Jaipur,Rajasthan,North,08MTXJH6118K1Z7,sdin@example.org,15,2.2,84.6,Standard
+SUP-065,Sandal and Sons Warehousing Ltd,Pune,Maharashtra,West,27FIHGQ2483S1Z9,nikita21@example.com,30,2.6,97.7,Preferred
+SUP-066,Kadakia-Sastry Warehousing Ltd,Mumbai,Maharashtra,West,27DGGTT2309P1Z9,lila01@example.org,90,4.3,62.1,At-Risk
+SUP-067,"Kamdar, Aurora and Bhat Supply Chain Pvt Ltd",Delhi,Delhi,North,07CQCYK2741Q1Z3,asubramanian@example.org,45,4.6,61.1,At-Risk
+SUP-068,Zachariah PLC Distributors,Kolkata,West Bengal,East,19ZOHLZ6156U1Z7,zsaraf@example.net,45,3.4,80.4,Standard
+SUP-069,Sharma LLC Exports Ltd,Chennai,Tamil Nadu,South,33ULJGH0883P1Z9,anshsinghal@example.com,60,2.9,60.3,At-Risk
+SUP-070,Varma Group Logistics Pvt Ltd,Bhopal,Madhya Pradesh,Central,23LHGAJ4531X1Z7,nkuruvilla@example.org,45,2.2,92.3,Preferred
+SUP-071,Sethi-Toor Enterprises Pvt Ltd,Surat,Gujarat,West,24GTXUR2784C1Z3,pallasara@example.com,60,3.9,65.3,At-Risk
+SUP-072,Tank-Pandey Trading Co,Hyderabad,Telangana,South,36SMIDZ0921O1Z1,siya91@example.com,15,3.5,69.1,At-Risk
+SUP-073,"Andra, Mishra and Chaudhary Exports Ltd",Pune,Maharashtra,West,27KUMJS0071I1Z7,aryanmuni@example.net,30,2.6,62.8,At-Risk
+SUP-074,Bhavsar Inc Enterprises Pvt Ltd,Patna,Bihar,East,10GJAZS3929G1Z8,ogrewal@example.net,90,4.0,88.7,Preferred
+SUP-075,Chadha LLC Industries Ltd,Chennai,Tamil Nadu,South,33MRIIQ0952U1Z5,kundahemang@example.com,30,4.9,67.8,At-Risk
+SUP-076,Iyer-Peri Enterprises Pvt Ltd,Chennai,Tamil Nadu,South,33QIEHD7007P1Z3,jagvinagarajan@example.org,30,2.5,74.5,At-Risk
+SUP-077,Ravi and Sons Supply Chain Pvt Ltd,Delhi,Delhi,North,07RIZTB3151P1Z4,qbose@example.org,60,4.2,72.4,At-Risk
+SUP-078,Samra LLC Exports Ltd,Mumbai,Maharashtra,West,27RJDXM4261F1Z9,aadhya93@example.com,45,4.6,73.6,At-Risk
+SUP-079,Agate Ltd Supply Chain Pvt Ltd,Lucknow,Uttar Pradesh,North,09XOBEH2306M1Z3,xahuja@example.com,90,2.7,94.4,Preferred
+SUP-080,"Venkataraman, Sandhu and Rao Enterprises Pvt Ltd",Nagpur,Maharashtra,Central,27BZVER7124K1Z2,garima20@example.com,15,4.5,63.8,At-Risk
+SUP-081,Padmanabhan Group Logistics Pvt Ltd,Bengaluru,Karnataka,South,29EACEA6346S1Z5,msrivastava@example.net,90,4.2,61.9,At-Risk
+SUP-082,"Manda, Srivastava and Char Industries Ltd",Mumbai,Maharashtra,West,27YFMXC8059N1Z6,vyanjana76@example.org,90,2.8,91.0,Preferred
+SUP-083,Borah and Sons Trading Co,Mumbai,Maharashtra,West,27TVCFN1231V1Z4,sankartanish@example.com,90,4.2,82.2,Standard
+SUP-084,Dasgupta-Mittal Exports Ltd,Ahmedabad,Gujarat,West,24TTORS4175Q1Z6,arunimazacharia@example.net,45,4.7,85.6,Standard
+SUP-085,Raval and Sons Distributors,Jaipur,Rajasthan,North,08ZIJTL7652Y1Z9,yastibhatti@example.org,45,4.9,96.1,Preferred
+SUP-086,Johal LLC Distributors,Kolkata,West Bengal,East,19YAAHA1809G1Z6,fariqsom@example.com,90,3.5,60.8,At-Risk
+SUP-087,"D’Alia, Tripathi and Pillay Logistics Pvt Ltd",Lucknow,Uttar Pradesh,North,09YEAJD3528C1Z7,damyanti47@example.org,15,4.2,82.2,Standard
+SUP-088,"Samra, Nath and Bhatt Supply Chain Pvt Ltd",Bhopal,Madhya Pradesh,Central,23MMXSV0608M1Z2,charvibaria@example.com,45,4.6,90.4,Preferred
+SUP-089,"Jhaveri, Tella and Varkey Trading Co",Ahmedabad,Gujarat,West,24KWWFQ6073J1Z9,chasmum06@example.net,45,3.5,61.6,At-Risk
+SUP-090,"Brahmbhatt, Loyal and Kibe Exports Ltd",Chennai,Tamil Nadu,South,33DRZZT5047E1Z3,arin05@example.com,90,4.2,73.1,At-Risk
+SUP-091,Rao-Koshy Logistics Pvt Ltd,Jaipur,Rajasthan,North,08KCNUD1546G1Z9,pbutala@example.org,30,2.2,84.0,Standard
+SUP-092,Prakash LLC Supply Chain Pvt Ltd,Bhopal,Madhya Pradesh,Central,23LROCK3136Y1Z5,adityasur@example.com,90,4.5,66.6,At-Risk
+SUP-093,Oommen-Ganguly Trading Co,Bhopal,Madhya Pradesh,Central,23LDBVF3781B1Z4,narulabalhaar@example.net,45,2.0,97.0,Preferred
+SUP-094,Bath-Kumar Industries Ltd,Nagpur,Maharashtra,Central,27UHMIT2575T1Z3,ynigam@example.com,60,3.7,87.1,Standard
+SUP-095,Chauhan Group Supply Chain Pvt Ltd,Surat,Gujarat,West,24NGBFS2490V1Z5,fariq85@example.org,15,2.1,85.9,Standard
+SUP-096,Wali Group Industries Ltd,Patna,Bihar,East,10WKZNS9450G1Z9,chaturakar@example.com,15,2.7,97.7,Preferred
+SUP-097,"Anne, Jhaveri and Madan Warehousing Ltd",Jaipur,Rajasthan,North,08HMTAR3399I1Z1,geetika06@example.net,15,4.8,84.4,Standard
+SUP-098,Gour-Srinivasan Warehousing Ltd,Hyderabad,Telangana,South,36FIKDS5686N1Z4,omittal@example.com,45,4.7,82.3,Standard
+SUP-099,Dua LLC Trading Co,Pune,Maharashtra,West,27LDQPR2168E1Z7,rviswanathan@example.org,90,4.8,98.8,Preferred
+SUP-100,Oza and Sons Distributors,Pune,Maharashtra,West,27BNSEV1039N1Z5,alexander28@example.net,30,4.3,77.3,Standard
+SUP-101,Setty-Narayan Exports Ltd,Delhi,Delhi,North,07DAZQP6520C1Z8,duttaquincy@example.com,45,2.6,65.2,At-Risk
+SUP-102,"Bedi, Dua and Choudhary Exports Ltd",Ahmedabad,Gujarat,West,24MDFAT0247G1Z4,yshankar@example.net,90,3.5,62.6,At-Risk
+SUP-103,Sarma-Biswas Industries Ltd,Pune,Maharashtra,West,27WXLUP8739S1Z9,chaitaly09@example.net,90,2.3,80.5,Standard
+SUP-104,Deo Inc Warehousing Ltd,Kolkata,West Bengal,East,19VBZNK7556B1Z4,oraval@example.net,45,4.3,71.4,At-Risk
+SUP-105,"Misra, Kaur and Kibe Trading Co",Hyderabad,Telangana,South,36LKPBN1847D1Z3,kumersarthak@example.org,60,3.2,90.4,Preferred
+SUP-106,Garde and Sons Exports Ltd,Kolkata,West Bengal,East,19ALXXW0367F1Z2,raagini38@example.org,45,2.3,63.6,At-Risk
+SUP-107,Modi and Sons Trading Co,Nagpur,Maharashtra,Central,27JUNYJ3795V1Z3,bavaveda@example.com,30,4.3,66.3,At-Risk
+SUP-108,Kalla-Saini Exports Ltd,Mumbai,Maharashtra,West,27KITLQ1126I1Z1,eranganathan@example.com,90,4.4,77.9,Standard
+SUP-109,Aurora-Narasimhan Logistics Pvt Ltd,Lucknow,Uttar Pradesh,North,09WGPMK0625T1Z9,ymukhopadhyay@example.net,15,2.6,92.0,Preferred
+SUP-110,"Vasa, Garg and Tara Trading Co",Mumbai,Maharashtra,West,27QAWRV2904F1Z3,sahnigautami@example.com,60,4.2,86.2,Standard
+SUP-111,"Bhatia, Kanda and Oza Distributors",Pune,Maharashtra,West,27YCHJJ0452E1Z2,radhanatt@example.org,45,3.6,87.1,Standard
+SUP-112,Deshmukh Group Supply Chain Pvt Ltd,Jaipur,Rajasthan,North,08FFBOZ5076Z1Z5,tprabhakar@example.org,45,3.6,76.7,Standard
+SUP-113,Mall LLC Exports Ltd,Lucknow,Uttar Pradesh,North,09JDONQ4167G1Z1,niteshpant@example.org,15,4.2,64.6,At-Risk
+SUP-114,"Dasgupta, Kurian and Ramanathan Supply Chain Pvt Ltd",Chennai,Tamil Nadu,South,33UZKIO6022Z1Z2,unarain@example.net,15,2.3,72.0,At-Risk
+SUP-115,Dhingra Inc Exports Ltd,Pune,Maharashtra,West,27ISQAE3369Z1Z1,xagarwal@example.com,30,3.9,85.2,Standard
+SUP-116,Varghese-Ramanathan Supply Chain Pvt Ltd,Kochi,Kerala,South,32WXMVY0556R1Z9,tdatta@example.com,45,2.2,60.7,At-Risk
+SUP-117,Karan Group Supply Chain Pvt Ltd,Bengaluru,Karnataka,South,29HAZQV5358Y1Z5,manthanchauhan@example.org,15,2.8,87.5,Standard
+SUP-118,"Madan, Chacko and Varughese Exports Ltd",Delhi,Delhi,North,07MGLYF3177C1Z8,ryanshah@example.com,90,2.5,79.7,Standard
+SUP-119,Goda-Setty Exports Ltd,Pune,Maharashtra,West,27YTNUD8896E1Z4,cdivan@example.com,60,4.1,88.3,Preferred
+SUP-120,"Gade, Bhalla and Doshi Distributors",Jaipur,Rajasthan,North,08DIBWW3817X1Z5,rzachariah@example.net,30,3.0,60.9,At-Risk
+SUP-121,Prasad-Nigam Supply Chain Pvt Ltd,Chennai,Tamil Nadu,South,33HNURH1195D1Z4,anamikasekhon@example.net,45,2.4,81.2,Standard
+SUP-122,Om-Yogi Enterprises Pvt Ltd,Nagpur,Maharashtra,Central,27UOEIX5009B1Z2,kohlileena@example.org,60,3.2,75.0,At-Risk
+SUP-123,"Sahota, Walla and Rajagopalan Exports Ltd",Nagpur,Maharashtra,Central,27PPVSQ3876R1Z2,kravi@example.net,90,2.4,98.0,Preferred
+SUP-124,"Ray, Vasa and Parmer Warehousing Ltd",Patna,Bihar,East,10USCIQ7491T1Z5,jhaverimax@example.net,30,4.1,95.6,Preferred
+SUP-125,"Mitter, Mangal and Ghose Warehousing Ltd",Surat,Gujarat,West,24IWIMB1482L1Z3,mmanne@example.net,15,3.0,79.8,Standard
+SUP-126,Rajan-Thakkar Warehousing Ltd,Surat,Gujarat,West,24BHLPG2140G1Z7,harinakshishankar@example.net,90,4.4,90.6,Preferred
+SUP-127,"Andra, Chanda and Gupta Warehousing Ltd",Jaipur,Rajasthan,North,08SERTS8153D1Z8,royedhitha@example.net,15,3.8,66.9,At-Risk
+SUP-128,Dash-Kata Trading Co,Surat,Gujarat,West,24VUJMR0889U1Z1,ayaandani@example.org,60,3.6,89.5,Preferred
+SUP-129,"Patel, Mahajan and Wable Industries Ltd",Ahmedabad,Gujarat,West,24QLFWH7699W1Z6,wperi@example.org,90,5.0,98.6,Preferred
+SUP-130,"Dora, Rajagopalan and Parikh Warehousing Ltd",Ahmedabad,Gujarat,West,24WWBXZ0591J1Z1,darsara@example.org,45,4.1,69.2,At-Risk
+SUP-131,"Setty, Bhalla and Kannan Enterprises Pvt Ltd",Ahmedabad,Gujarat,West,24JORME3981V1Z3,thomas17@example.net,15,2.4,65.2,At-Risk
+SUP-132,"Bala, Wable and Ganesan Warehousing Ltd",Kochi,Kerala,South,32MLZCQ4476N1Z3,dakshesh10@example.org,90,4.5,77.7,Standard
+SUP-133,Desai Inc Exports Ltd,Ahmedabad,Gujarat,West,24JEPPW2545L1Z1,ryanbutala@example.net,45,2.3,98.2,Preferred
+SUP-134,Toor-Maharaj Enterprises Pvt Ltd,Kolkata,West Bengal,East,19ZCSNW7255T1Z2,vasatimothy@example.org,90,4.4,69.6,At-Risk
+SUP-135,Srinivasan-Nazareth Industries Ltd,Hyderabad,Telangana,South,36PXNAL9533Z1Z5,dayamai70@example.net,90,4.2,71.3,At-Risk
+SUP-136,Goswami-Saha Enterprises Pvt Ltd,Nagpur,Maharashtra,Central,27UGQPO6270P1Z2,gandhifrado@example.com,45,2.8,64.9,At-Risk
+SUP-137,Agarwal-Sarma Industries Ltd,Lucknow,Uttar Pradesh,North,09HWACE5148I1Z4,skhurana@example.org,45,5.0,78.9,Standard
+SUP-138,Mutti-Cheema Distributors,Bengaluru,Karnataka,South,29PVVTK3671S1Z6,sneha15@example.net,15,2.2,62.1,At-Risk
+SUP-139,"Chandran, Palla and Kara Exports Ltd",Kolkata,West Bengal,East,19KHTTN3741N1Z1,isaiah87@example.com,60,4.0,71.3,At-Risk
+SUP-140,Krishnamurthy LLC Warehousing Ltd,Jaipur,Rajasthan,North,08RBXQY4983I1Z2,balandominic@example.com,60,4.3,70.0,At-Risk
+SUP-141,Cheema-Manda Enterprises Pvt Ltd,Nagpur,Maharashtra,Central,27GRUNR9300C1Z1,nmannan@example.org,60,3.1,76.0,Standard
+SUP-142,Badal Ltd Trading Co,Nagpur,Maharashtra,Central,27HFACY6896W1Z2,merchantchatura@example.com,60,4.0,63.4,At-Risk
+SUP-143,Thakur-Bhargava Supply Chain Pvt Ltd,Kochi,Kerala,South,32QUECE2604I1Z7,kritikadewan@example.com,45,2.5,87.0,Standard
+SUP-144,Narula-Mannan Exports Ltd,Delhi,Delhi,North,07HBKZG8109G1Z7,bhagatsanaya@example.com,15,2.4,67.0,At-Risk
+SUP-145,Krishna and Sons Industries Ltd,Bhopal,Madhya Pradesh,Central,23LPCLG0077A1Z8,hiral69@example.com,15,4.0,65.8,At-Risk
+SUP-146,Sachar-Parsa Industries Ltd,Hyderabad,Telangana,South,36DIKAS7447Z1Z2,yatin72@example.com,60,4.9,81.1,Standard
+SUP-147,"Sen, Deshmukh and Bhattacharyya Supply Chain Pvt Ltd",Patna,Bihar,East,10UDNZI3096L1Z9,warhisangha@example.com,15,4.5,93.3,Preferred
+SUP-148,Srivastava Inc Exports Ltd,Bhopal,Madhya Pradesh,Central,23TQEBJ1686L1Z8,odhaliwal@example.net,30,2.4,63.3,At-Risk
+SUP-149,"Gola, Datta and Devan Supply Chain Pvt Ltd",Chennai,Tamil Nadu,South,33AZGKU6498A1Z1,sachi63@example.net,15,3.2,73.2,At-Risk
+SUP-150,Chakraborty-Kalla Exports Ltd,Chennai,Tamil Nadu,South,33URLRW1590E1Z8,fmagar@example.net,90,2.1,85.5,Standard
+SUP-151,"Prakash, Sekhon and Wadhwa Logistics Pvt Ltd",Nagpur,Maharashtra,Central,27QAQXV0680D1Z2,purohitdaksh@example.net,15,4.4,79.4,Standard
+SUP-152,"Bhakta, Sant and Sabharwal Supply Chain Pvt Ltd",Ahmedabad,Gujarat,West,24IVTKD6539G1Z1,omaja64@example.org,15,2.4,83.1,Standard
+SUP-153,Dara Inc Exports Ltd,Bengaluru,Karnataka,South,29TEJEG5176M1Z3,sbarman@example.org,15,2.0,60.6,At-Risk
+SUP-154,"Gill, Bhattacharyya and Kapadia Logistics Pvt Ltd",Bengaluru,Karnataka,South,29YSPHS7411I1Z9,nitaratella@example.org,30,3.8,77.6,Standard
+SUP-155,Bajaj-Virk Logistics Pvt Ltd,Mumbai,Maharashtra,West,27PSPCV3451Q1Z2,radhika37@example.org,60,4.3,84.1,Standard
+SUP-156,Palla Ltd Warehousing Ltd,Surat,Gujarat,West,24FBCDV9419B1Z6,kuruvillatanveer@example.com,45,3.0,71.1,At-Risk
+SUP-157,Chacko-Walla Supply Chain Pvt Ltd,Bhopal,Madhya Pradesh,Central,23XLCBN1050H1Z8,ukhalsa@example.org,60,2.6,83.1,Standard
+SUP-158,Bhakta LLC Warehousing Ltd,Surat,Gujarat,West,24XFCFG4180S1Z8,chawlaurvi@example.net,30,2.6,62.1,At-Risk
+SUP-159,"Palla, Sant and Bhalla Exports Ltd",Lucknow,Uttar Pradesh,North,09LKDSQ9216B1Z5,chanderviraj@example.org,60,3.3,65.3,At-Risk
+SUP-160,"Tara, Kar and Barad Exports Ltd",Bhopal,Madhya Pradesh,Central,23IXPUQ6198C1Z7,xkarpe@example.org,30,3.8,93.4,Preferred
+SUP-161,Ravi-Nanda Industries Ltd,Patna,Bihar,East,10MALWG4299S1Z1,wjhaveri@example.org,15,5.0,76.3,Standard
+SUP-162,Shere-Bala Trading Co,Nagpur,Maharashtra,Central,27TANMU8425A1Z7,pandyaharrison@example.net,45,2.9,97.0,Preferred
+SUP-163,Narain and Sons Supply Chain Pvt Ltd,Surat,Gujarat,West,24ZAREL5594E1Z7,varenyaparmar@example.org,60,4.1,67.2,At-Risk
+SUP-164,Goswami Group Enterprises Pvt Ltd,Mumbai,Maharashtra,West,27WBXIA4295Z1Z4,osane@example.net,90,4.6,90.7,Preferred
+SUP-165,"Gour, Dubey and Dhingra Logistics Pvt Ltd",Nagpur,Maharashtra,Central,27YNXJB3403U1Z9,aryatandon@example.com,30,4.9,87.5,Standard
+SUP-166,Bahri-Wadhwa Distributors,Chennai,Tamil Nadu,South,33OQTTW7773I1Z9,randhawakrishna@example.com,15,2.2,86.5,Standard
+SUP-167,Tak-Murthy Exports Ltd,Pune,Maharashtra,West,27LNVMN8843V1Z2,bgala@example.com,15,2.2,67.3,At-Risk
+SUP-168,Sen-Sridhar Trading Co,Kochi,Kerala,South,32EYCEC1129A1Z5,kalawriddhish@example.net,60,3.0,76.2,Standard
+SUP-169,"Sidhu, Misra and Sibal Exports Ltd",Kolkata,West Bengal,East,19TAEAU8535U1Z6,odate@example.org,60,2.9,79.0,Standard
+SUP-170,Khalsa-Mani Distributors,Bengaluru,Karnataka,South,29XHUFJ2812F1Z3,aadirege@example.net,30,4.9,87.8,Standard
+SUP-171,"Goswami, Dey and Ahuja Supply Chain Pvt Ltd",Patna,Bihar,East,10SXUED9543G1Z9,prabhugaurav@example.net,45,2.4,87.6,Standard
+SUP-172,Mukhopadhyay-Swamy Supply Chain Pvt Ltd,Kolkata,West Bengal,East,19OEHXK4143A1Z9,charvigoswami@example.com,45,3.4,98.0,Preferred
+SUP-173,Chokshi PLC Enterprises Pvt Ltd,Hyderabad,Telangana,South,36ZTZRU7931P1Z1,aarnavdeep@example.org,45,2.1,65.4,At-Risk
+SUP-174,Shanker and Sons Exports Ltd,Lucknow,Uttar Pradesh,North,09VLCBQ5292A1Z2,xmenon@example.com,15,4.9,81.0,Standard
+SUP-175,Suri-Doctor Supply Chain Pvt Ltd,Ahmedabad,Gujarat,West,24FIPYX3183L1Z1,srinivaskamala@example.com,45,4.9,71.1,At-Risk
+SUP-176,Sem-Grover Enterprises Pvt Ltd,Patna,Bihar,East,10OFXTK4178X1Z7,advay25@example.org,30,2.6,65.4,At-Risk
+SUP-177,Hans PLC Trading Co,Kolkata,West Bengal,East,19ZNIYP3062F1Z9,jagvivarughese@example.net,30,2.6,78.0,Standard
+SUP-178,Garde-Varty Exports Ltd,Ahmedabad,Gujarat,West,24HMVHP4727E1Z5,varugheseoscar@example.net,15,4.0,71.7,At-Risk
+SUP-179,Kothari PLC Distributors,Kochi,Kerala,South,32HEXQA7495L1Z8,singhalhitesh@example.net,60,4.9,82.1,Standard
+SUP-180,Jain-Dora Warehousing Ltd,Patna,Bihar,East,10DNOVE0381F1Z1,dhingrayutika@example.org,45,2.1,70.6,At-Risk
+SUP-181,Chacko-Batta Supply Chain Pvt Ltd,Hyderabad,Telangana,South,36NYNTE0758V1Z5,sarora@example.org,15,3.6,70.6,At-Risk
+SUP-182,Sathe-Saha Enterprises Pvt Ltd,Pune,Maharashtra,West,27VANJM3911H1Z4,osha27@example.net,60,3.4,91.0,Preferred
+SUP-183,"Divan, Lad and Dyal Industries Ltd",Delhi,Delhi,North,07DDAJR1495K1Z3,meera31@example.com,15,2.7,87.7,Standard
+SUP-184,Butala-Ratti Enterprises Pvt Ltd,Patna,Bihar,East,10SRHFZ4710P1Z7,parthgill@example.net,15,4.4,61.7,At-Risk
+SUP-185,Khosla-Anand Supply Chain Pvt Ltd,Jaipur,Rajasthan,North,08PMXBH0016S1Z4,gaurav11@example.com,15,2.3,67.2,At-Risk
+SUP-186,Agate LLC Logistics Pvt Ltd,Patna,Bihar,East,10THPJW7650S1Z1,watikavaidya@example.org,45,2.5,80.6,Standard
+SUP-187,Sridhar-Magar Warehousing Ltd,Bhopal,Madhya Pradesh,Central,23NZCFN7354D1Z3,aadi41@example.net,60,2.6,92.6,Preferred
+SUP-188,Garg Inc Warehousing Ltd,Chennai,Tamil Nadu,South,33KTIMN4327C1Z6,chokshihemang@example.org,45,3.4,79.3,Standard
+SUP-189,"Date, Basak and Cherian Exports Ltd",Nagpur,Maharashtra,Central,27IZLOH8108P1Z6,vyanjanamurty@example.org,15,3.2,67.0,At-Risk
+SUP-190,"Desai, Warrior and Apte Warehousing Ltd",Jaipur,Rajasthan,North,08RCDKP1990G1Z6,karan83@example.com,15,2.7,67.8,At-Risk
+SUP-191,"Tak, Hora and Karnik Distributors",Ahmedabad,Gujarat,West,24SHSPH7644T1Z7,gbhatia@example.com,30,4.3,98.5,Preferred
+SUP-192,Goel-Bhatnagar Supply Chain Pvt Ltd,Delhi,Delhi,North,07DMGYA7840F1Z7,nilima92@example.com,30,2.9,83.6,Standard
+SUP-193,Venkataraman Group Industries Ltd,Lucknow,Uttar Pradesh,North,09CBTTU2642K1Z9,sanya48@example.net,60,4.6,81.3,Standard
+SUP-194,"Ravi, Sabharwal and Din Warehousing Ltd",Delhi,Delhi,North,07JIJLA5837P1Z7,murtychakrika@example.net,60,4.3,65.2,At-Risk
+SUP-195,"Kothari, Venkataraman and Ghosh Distributors",Lucknow,Uttar Pradesh,North,09RRROM8534M1Z6,chasmum02@example.com,45,2.2,89.9,Preferred
+SUP-196,Saxena-Patil Logistics Pvt Ltd,Lucknow,Uttar Pradesh,North,09BVJTA8303L1Z7,hsane@example.com,30,2.7,73.7,At-Risk
+SUP-197,"Choudhry, Bala and Jhaveri Distributors",Hyderabad,Telangana,South,36PXBHI0348S1Z9,upasna49@example.net,15,4.1,95.2,Preferred
+SUP-198,"Bala, Halder and Jani Distributors",Lucknow,Uttar Pradesh,North,09AIOIC4624Z1Z6,edhithagoda@example.org,45,4.9,66.5,At-Risk
+SUP-199,Krishnan-Mangat Enterprises Pvt Ltd,Chennai,Tamil Nadu,South,33MWUVN2094H1Z2,aram@example.net,90,3.0,88.0,Standard
+SUP-200,"Karan, Sundaram and Dhingra Distributors",Delhi,Delhi,North,07ONLJB8526K1Z4,fmangal@example.org,90,3.5,76.2,Standard

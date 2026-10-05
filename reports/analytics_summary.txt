@@ -1,0 +1,94 @@
+=================================================================
+  SUPPLY CHAIN & LOGISTICS — ANALYTICS ENGINE
+=================================================================
+Loading cleaned data...
+  Orders: 50,000 | Suppliers: 200 | Products: 500
+
+=================================================================
+  ANALYSIS 1 — VENDOR SCORECARD
+=================================================================
+
+  TOP 10 VENDORS BY SCORE:
+                                       supplier_name  vendor_score vendor_tier  on_time_delivery_rate  quality_rating  total_orders
+             Patel, Mahajan and Wable Industries Ltd         99.44   Preferred                   98.6             5.0           256
+                                  Dua LLC Trading Co         98.32   Preferred                   98.8             4.8           274
+                           Manne Ltd Warehousing Ltd         97.84   Preferred                   96.1             4.9           256
+                         Raval and Sons Distributors         97.84   Preferred                   96.1             4.9           268
+                             Murthy-Dyal Exports Ltd         95.32   Preferred                   98.8             4.3           253
+                   Tak, Hora and Karnik Distributors         95.20   Preferred                   98.5             4.3           244
+                             Bir-Krishna Exports Ltd         94.62   Preferred                   92.6             4.8           244
+    Pant, Sanghvi and Natarajan Supply Chain Pvt Ltd         94.60   Preferred                   95.5             4.4           265
+                          Sinha and Sons Exports Ltd         94.40   Preferred                   96.5             4.3           251
+Sen, Deshmukh and Bhattacharyya Supply Chain Pvt Ltd         93.68   Preferred                   93.3             4.5           228
+
+  BOTTOM 10 VENDORS (At-Risk):
+                           supplier_name  vendor_score vendor_tier  avg_delay_days  total_orders
+                    Dara Inc Exports Ltd         37.06     At-Risk        3.224066           241
+                  Sharma LLC Exports Ltd         41.52     At-Risk        3.314894           235
+Narula, Chaudhuri and Atwal Distributors         42.07     At-Risk        2.724265           272
+Varghese-Ramanathan Supply Chain Pvt Ltd         43.56     At-Risk        2.643110           283
+              Srivastava Inc Exports Ltd         44.19     At-Risk        2.820961           229
+            Chandra and Sons Exports Ltd         44.64     At-Risk        2.762712           236
+               Mutti-Cheema Distributors         45.05     At-Risk        2.540323           248
+          Sem-Grover Enterprises Pvt Ltd         45.90     At-Risk        2.857143           252
+         Chokshi PLC Enterprises Pvt Ltd         46.24     At-Risk        2.488000           250
+                  Bansal Inc Exports Ltd         46.45     At-Risk        2.752294           218
+
+  VENDOR TIER DISTRIBUTION:
+  vendor_tier
+At-Risk      72
+Standard     69
+Preferred    59
+
+=================================================================
+  ANALYSIS 2 — DEMAND-SUPPLY GAP ANALYSIS
+=================================================================
+
+  TOP 20 HIGH-RISK SKUs (Fulfillment < 90%):
+Empty DataFrame
+Columns: [product_name, category, fulfillment_rate, supply_gap_units, risk_flag]
+Index: []
+
+  Total HIGH RISK SKUs  : 0
+  Total MEDIUM RISK SKUs: 0
+  Total LOW RISK SKUs   : 500
+
+=================================================================
+  ANALYSIS 3 — FREIGHT COST OPTIMIZATION
+=================================================================
+
+  FREIGHT COST BY MODE:
+freight_mode  order_count  total_freight  avg_cost_per_kg  total_weight_kg  share_pct
+         Air         4930   2.698850e+09        89.754357             4930      47.57
+        Rail         9991   4.362257e+08         6.983187             9991       7.69
+        Road        30072   2.415221e+09        12.978286            30072      42.57
+         Sea         5007   1.236209e+08         4.015530             5007       2.18
+
+  Air shipment orders        : 4,930
+  Avg Air cost/kg            : ₹89.75
+  Avg Road cost/kg           : ₹12.98
+  POTENTIAL ANNUAL SAVINGS   : ₹2,307,670,758
+  (Switching 30% Air → Road  : ₹692,301,227 savings)
+
+=================================================================
+  ANALYSIS 4 — INVENTORY TURNOVER & DEAD STOCK
+=================================================================
+
+  DEAD STOCK PRODUCTS (Turnover < 2x): 2
+          product_name category  inventory_turnover  avg_closing_stock  holding_cost_inr
+Footwear Expedita Lite  Apparel                1.57        1194.000000        6406022.53
+Prescription Drugs In    Pharma                1.91        1129.666667         854172.60
+
+  Total Annual Dead Stock Holding Cost : ₹7,260,195
+
+=================================================================
+  ANALYSIS 5 — REGIONAL PERFORMANCE ANALYSIS
+=================================================================
+
+  REGIONAL PERFORMANCE SUMMARY:
+ region  total_orders  fulfillment_rate_pct  avg_delay_days  total_freight_inr  freight_pct_of_value
+Central          5075                 47.13        1.211034       5.854064e+08                  2.48
+   East          4998                 45.94        1.312325       5.761432e+08                  2.53
+  North          9845                 46.59        1.363535       1.097658e+09                  2.44
+  South         17511                 47.29        1.286449       1.994367e+09                  2.48
+   West         12571                 47.04        1.245327       1.420343e+09                  2.44

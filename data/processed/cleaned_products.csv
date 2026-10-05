@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,sku,unit_price_inr,weight_kg,volume_cbm,reorder_point,lead_time_days,price_tier
+PRD-0001,Smartphones Saepe Pro,Electronics,Smartphones,SKU-ELE-00001,37090.45,12.32,0.0192,183,25,Luxury
+PRD-0002,Engine Parts Harum Lite,Auto Parts,Engine Parts,SKU-AUT-00002,29545.1,1.69,0.0023,139,21,Luxury
+PRD-0003,Cameras Quibusdam Lite,Electronics,Cameras,SKU-ELE-00003,9981.94,32.53,0.1034,124,20,Premium
+PRD-0004,OTC Medicines Eaque Plus,Pharma,OTC Medicines,SKU-PHA-00004,37952.43,8.07,0.0217,49,8,Luxury
+PRD-0005,OTC Medicines Ut ,Pharma,OTC Medicines,SKU-PHA-00005,4682.65,4.93,0.0216,77,27,Mid-Range
+PRD-0006,Headphones Incidunt ,Electronics,Headphones,SKU-ELE-00006,26834.59,48.66,0.1223,85,28,Luxury
+PRD-0007,Batteries Laudantium Lite,Auto Parts,Batteries,SKU-AUT-00007,28888.74,35.26,0.0417,84,4,Luxury
+PRD-0008,Packaged Food Repellat Lite,FMCG,Packaged Food,SKU-FMC-00008,19037.3,22.73,0.0986,104,13,Premium
+PRD-0009,Personal Care Quos Lite,FMCG,Personal Care,SKU-FMC-00009,35105.92,34.21,0.044,146,25,Luxury
+PRD-0010,Beverages Qui ,FMCG,Beverages,SKU-FMC-00010,23139.9,13.57,0.0638,66,23,Luxury
+PRD-0011,OTC Medicines Dolorum Plus,Pharma,OTC Medicines,SKU-PHA-00011,11490.95,1.7,0.0038,26,8,Premium
+PRD-0012,Batteries Nisi Max,Auto Parts,Batteries,SKU-AUT-00012,10670.7,25.01,0.1135,46,10,Premium
+PRD-0013,Beverages Ipsa Max,FMCG,Beverages,SKU-FMC-00013,37262.2,26.99,0.1076,159,14,Luxury
+PRD-0014,Prescription Drugs Labore Pro,Pharma,Prescription Drugs,SKU-PHA-00014,49866.42,7.0,0.0208,38,6,Luxury
+PRD-0015,Household Placeat Max,FMCG,Household,SKU-FMC-00015,29840.63,19.3,0.0653,145,10,Luxury
+PRD-0016,Engine Parts Qui Plus,Auto Parts,Engine Parts,SKU-AUT-00016,34030.16,5.82,0.0264,174,12,Luxury
+PRD-0017,Tablets Nulla Plus,Electronics,Tablets,SKU-ELE-00017,21766.52,22.74,0.1095,138,26,Luxury
+PRD-0018,Dairy Libero ,FMCG,Dairy,SKU-FMC-00018,45635.76,43.54,0.0955,165,8,Luxury
+PRD-0019,Personal Care Earum ,FMCG,Personal Care,SKU-FMC-00019,38137.41,27.02,0.1112,10,21,Luxury
+PRD-0020,Vitamins Explicabo Plus,Pharma,Vitamins,SKU-PHA-00020,1022.86,46.46,0.2098,71,3,Mid-Range
+PRD-0021,Dairy Odit Pro,FMCG,Dairy,SKU-FMC-00021,47350.12,4.37,0.0129,146,26,Luxury
+PRD-0022,Beverages Sed ,FMCG,Beverages,SKU-FMC-00022,33004.55,47.35,0.0786,165,15,Luxury
+PRD-0023,Dairy Minima Max,FMCG,Dairy,SKU-FMC-00023,37775.5,34.52,0.133,181,22,Luxury
+PRD-0024,Vitamins Temporibus Pro,Pharma,Vitamins,SKU-PHA-00024,44985.72,22.63,0.0451,96,2,Luxury
+PRD-0025,Brakes Alias Pro,Auto Parts,Brakes,SKU-AUT-00025,11544.23,11.09,0.0142,68,4,Premium
+PRD-0026,Tablets Deserunt Lite,Electronics,Tablets,SKU-ELE-00026,3589.32,11.98,0.044,148,6,Mid-Range
+PRD-0027,Brakes Odio Lite,Auto Parts,Brakes,SKU-AUT-00027,23659.92,39.25,0.166,34,5,Luxury
+PRD-0028,Kids Wear Nihil Pro,Apparel,Kids Wear,SKU-APP-00028,21207.75,23.4,0.0916,25,14,Luxury
+PRD-0029,OTC Medicines Illo Max,Pharma,OTC Medicines,SKU-PHA-00029,12470.38,9.59,0.0268,56,10,Premium
+PRD-0030,Womens Wear Error ,Apparel,Womens Wear,SKU-APP-00030,43730.57,3.86,0.0163,35,3,Luxury
+PRD-0031,Engine Parts Odio Lite,Auto Parts,Engine Parts,SKU-AUT-00031,48451.36,46.33,0.2036,114,17,Luxury
+PRD-0032,Womens Wear Maiores Pro,Apparel,Womens Wear,SKU-APP-00032,43239.29,45.13,0.0749,109,10,Luxury
+PRD-0033,Kids Wear Eos ,Apparel,Kids Wear,SKU-APP-00033,21179.22,47.87,0.2385,179,24,Luxury
+PRD-0034,Womens Wear Recusandae ,Apparel,Womens Wear,SKU-APP-00034,9535.4,10.96,0.0135,25,25,Premium
+PRD-0035,OTC Medicines Distinctio ,Pharma,OTC Medicines,SKU-PHA-00035,2554.61,23.89,0.1117,50,3,Mid-Range
+PRD-0036,Engine Parts Architecto Lite,Auto Parts,Engine Parts,SKU-AUT-00036,42574.56,3.52,0.0045,113,5,Luxury
+PRD-0037,Tyres Beatae ,Auto Parts,Tyres,SKU-AUT-00037,28967.01,2.08,0.0028,154,18,Luxury
+PRD-0038,Surgical Supplies Hic Max,Pharma,Surgical Supplies,SKU-PHA-00038,10252.75,35.84,0.0701,43,23,Premium
+PRD-0039,Vitamins A Max,Pharma,Vitamins,SKU-PHA-00039,15843.05,37.62,0.0485,169,20,Premium
+PRD-0040,Smartphones Quam Plus,Electronics,Smartphones,SKU-ELE-00040,26904.84,25.34,0.0388,27,30,Luxury
+PRD-0041,Personal Care Voluptatem Plus,FMCG,Personal Care,SKU-FMC-00041,14285.12,21.97,0.0697,166,27,Premium
+PRD-0042,Engine Parts Eveniet Pro,Auto Parts,Engine Parts,SKU-AUT-00042,33409.77,27.77,0.1313,44,10,Luxury
+PRD-0043,Smartphones Doloribus Lite,Electronics,Smartphones,SKU-ELE-00043,37133.71,7.86,0.0167,193,12,Luxury
+PRD-0044,Personal Care Ad Pro,FMCG,Personal Care,SKU-FMC-00044,25295.18,12.63,0.0585,33,22,Luxury
+PRD-0045,Kids Wear Iste Plus,Apparel,Kids Wear,SKU-APP-00045,2252.13,16.74,0.0255,51,25,Mid-Range
+PRD-0046,Footwear Nemo Lite,Apparel,Footwear,SKU-APP-00046,35298.09,28.09,0.0407,149,3,Luxury
+PRD-0047,Prescription Drugs Repudiandae Pro,Pharma,Prescription Drugs,SKU-PHA-00047,21517.85,2.19,0.0054,101,8,Luxury
+PRD-0048,Packaged Food Deleniti ,FMCG,Packaged Food,SKU-FMC-00048,17716.25,28.04,0.1261,49,9,Premium
+PRD-0049,Beverages Quos Plus,FMCG,Beverages,SKU-FMC-00049,44076.74,1.34,0.0053,115,27,Luxury
+PRD-0050,Personal Care Praesentium Pro,FMCG,Personal Care,SKU-FMC-00050,8001.93,35.09,0.0888,130,9,Premium
+PRD-0051,Household Ad Lite,FMCG,Household,SKU-FMC-00051,17515.44,41.04,0.1841,16,23,Premium
+PRD-0052,Household Aspernatur Plus,FMCG,Household,SKU-FMC-00052,16446.68,43.23,0.2104,99,22,Premium
+PRD-0053,Filters Aspernatur Pro,Auto Parts,Filters,SKU-AUT-00053,33991.93,42.2,0.0981,39,30,Luxury
+PRD-0054,Prescription Drugs Pariatur ,Pharma,Prescription Drugs,SKU-PHA-00054,29050.46,49.18,0.0567,121,13,Luxury
+PRD-0055,Vitamins Molestias ,Pharma,Vitamins,SKU-PHA-00055,30330.13,25.62,0.0651,58,10,Luxury
+PRD-0056,Headphones Unde Lite,Electronics,Headphones,SKU-ELE-00056,134.48,46.29,0.146,103,15,Budget
+PRD-0057,Tablets Repellat Plus,Electronics,Tablets,SKU-ELE-00057,31176.61,33.2,0.0498,139,11,Luxury
+PRD-0058,Kids Wear Omnis Max,Apparel,Kids Wear,SKU-APP-00058,20149.9,14.85,0.0224,180,14,Luxury
+PRD-0059,Dairy Magni Plus,FMCG,Dairy,SKU-FMC-00059,28476.81,20.36,0.0883,83,8,Luxury
+PRD-0060,Footwear Odit Lite,Apparel,Footwear,SKU-APP-00060,30352.75,16.18,0.0448,140,17,Luxury
+PRD-0061,Packaged Food Ut Pro,FMCG,Packaged Food,SKU-FMC-00061,14225.13,33.23,0.1155,70,23,Premium
+PRD-0062,Prescription Drugs Tenetur Max,Pharma,Prescription Drugs,SKU-PHA-00062,40337.82,7.45,0.0088,166,29,Luxury
+PRD-0063,Headphones Totam Max,Electronics,Headphones,SKU-ELE-00063,20751.33,31.53,0.0561,136,14,Luxury
+PRD-0064,Beverages Rem Pro,FMCG,Beverages,SKU-FMC-00064,32820.1,0.38,0.0015,118,9,Luxury
+PRD-0065,Dairy Quaerat Pro,FMCG,Dairy,SKU-FMC-00065,23254.27,27.91,0.1303,126,6,Luxury
+PRD-0066,Footwear Neque Max,Apparel,Footwear,SKU-APP-00066,49395.23,29.81,0.1431,166,28,Luxury
+PRD-0067,Filters Id Max,Auto Parts,Filters,SKU-AUT-00067,41536.93,27.44,0.1259,125,10,Luxury
+PRD-0068,Personal Care Distinctio Plus,FMCG,Personal Care,SKU-FMC-00068,38302.39,26.11,0.0916,122,4,Luxury
+PRD-0069,Prescription Drugs Repudiandae Lite,Pharma,Prescription Drugs,SKU-PHA-00069,13622.17,16.05,0.0507,48,9,Premium
+PRD-0070,Womens Wear Alias ,Apparel,Womens Wear,SKU-APP-00070,35335.64,3.31,0.0087,129,15,Luxury
+PRD-0071,Laptops Dolores Pro,Electronics,Laptops,SKU-ELE-00071,41652.91,19.53,0.0797,157,14,Luxury
+PRD-0072,Mens Wear Quod Max,Apparel,Mens Wear,SKU-APP-00072,47139.95,15.0,0.0384,147,25,Luxury
+PRD-0073,Brakes Dolorem Max,Auto Parts,Brakes,SKU-AUT-00073,44895.68,24.46,0.0512,17,14,Luxury
+PRD-0074,Vitamins Ipsa ,Pharma,Vitamins,SKU-PHA-00074,36222.86,42.04,0.1967,146,2,Luxury
+PRD-0075,Footwear Eos Lite,Apparel,Footwear,SKU-APP-00075,28241.38,1.45,0.0052,128,7,Luxury
+PRD-0076,Tablets Explicabo Max,Electronics,Tablets,SKU-ELE-00076,18986.24,10.66,0.0246,81,26,Premium
+PRD-0077,Kids Wear Asperiores Pro,Apparel,Kids Wear,SKU-APP-00077,41753.8,23.57,0.0942,99,9,Luxury
+PRD-0078,Smartphones Beatae Pro,Electronics,Smartphones,SKU-ELE-00078,37723.95,47.49,0.0854,169,6,Luxury
+PRD-0079,Beverages Illum Max,FMCG,Beverages,SKU-FMC-00079,23704.37,5.81,0.0278,189,10,Luxury
+PRD-0080,Prescription Drugs Quae Lite,Pharma,Prescription Drugs,SKU-PHA-00080,30314.34,48.19,0.1867,89,5,Luxury
+PRD-0081,Engine Parts Atque Max,Auto Parts,Engine Parts,SKU-AUT-00081,46447.91,28.83,0.1335,111,24,Luxury
+PRD-0082,Packaged Food Doloremque Plus,FMCG,Packaged Food,SKU-FMC-00082,29625.29,41.55,0.0819,185,21,Luxury
+PRD-0083,Cameras Maxime Plus,Electronics,Cameras,SKU-ELE-00083,39142.64,17.43,0.0473,27,18,Luxury
+PRD-0084,OTC Medicines Dignissimos Plus,Pharma,OTC Medicines,SKU-PHA-00084,42486.3,41.13,0.0585,172,30,Luxury
+PRD-0085,Womens Wear Recusandae Plus,Apparel,Womens Wear,SKU-APP-00085,21802.58,36.72,0.1785,167,27,Luxury
+PRD-0086,Filters Dolorum Plus,Auto Parts,Filters,SKU-AUT-00086,23270.44,41.3,0.1392,72,28,Luxury
+PRD-0087,Tablets Non ,Electronics,Tablets,SKU-ELE-00087,44087.48,12.27,0.0351,181,14,Luxury
+PRD-0088,OTC Medicines Nostrum Plus,Pharma,OTC Medicines,SKU-PHA-00088,24740.61,16.32,0.0481,76,12,Luxury
+PRD-0089,Surgical Supplies Accusantium Lite,Pharma,Surgical Supplies,SKU-PHA-00089,27811.76,25.88,0.0457,194,15,Luxury
+PRD-0090,Footwear Quaerat Max,Apparel,Footwear,SKU-APP-00090,37920.32,34.56,0.1238,124,27,Luxury
+PRD-0091,Smartphones Laudantium ,Electronics,Smartphones,SKU-ELE-00091,14747.07,20.28,0.04,104,17,Premium
+PRD-0092,Brakes Similique Plus,Auto Parts,Brakes,SKU-AUT-00092,17220.68,49.83,0.1595,189,16,Premium
+PRD-0093,Surgical Supplies Necessitatibus Pro,Pharma,Surgical Supplies,SKU-PHA-00093,12607.61,6.12,0.0108,200,19,Premium
+PRD-0094,Beverages Dolorem ,FMCG,Beverages,SKU-FMC-00094,10858.41,24.26,0.0946,162,11,Premium
+PRD-0095,Laptops Atque ,Electronics,Laptops,SKU-ELE-00095,14847.51,18.11,0.04,42,10,Premium
+PRD-0096,Smartphones Repellat Max,Electronics,Smartphones,SKU-ELE-00096,27690.28,34.9,0.0525,36,29,Luxury
+PRD-0097,Cameras Incidunt Pro,Electronics,Cameras,SKU-ELE-00097,14252.75,23.99,0.0567,74,29,Premium
+PRD-0098,Mens Wear Iusto Pro,Apparel,Mens Wear,SKU-APP-00098,41114.68,20.1,0.0261,48,6,Luxury
+PRD-0099,Batteries Repudiandae Max,Auto Parts,Batteries,SKU-AUT-00099,4304.79,12.48,0.0403,165,21,Mid-Range
+PRD-0100,Tyres Consequuntur Plus,Auto Parts,Tyres,SKU-AUT-00100,38795.89,19.08,0.0884,160,15,Luxury
+PRD-0101,OTC Medicines Consequatur Lite,Pharma,OTC Medicines,SKU-PHA-00101,30501.06,37.03,0.1774,170,8,Luxury
+PRD-0102,OTC Medicines Eaque Pro,Pharma,OTC Medicines,SKU-PHA-00102,7895.0,8.77,0.0114,114,16,Premium
+PRD-0103,Filters Repellat Max,Auto Parts,Filters,SKU-AUT-00103,14598.4,11.65,0.0446,28,23,Premium
+PRD-0104,Personal Care Magnam Lite,FMCG,Personal Care,SKU-FMC-00104,39402.01,31.29,0.114,118,5,Luxury
+PRD-0105,Tyres Laudantium Pro,Auto Parts,Tyres,SKU-AUT-00105,32399.35,45.43,0.1956,25,7,Luxury
+PRD-0106,Surgical Supplies Pariatur Max,Pharma,Surgical Supplies,SKU-PHA-00106,21985.71,23.49,0.0521,79,18,Luxury
+PRD-0107,Filters Praesentium Plus,Auto Parts,Filters,SKU-AUT-00107,21916.06,29.94,0.1365,164,10,Luxury
+PRD-0108,Smartphones Velit ,Electronics,Smartphones,SKU-ELE-00108,11484.77,33.75,0.1499,15,26,Premium
+PRD-0109,OTC Medicines Eveniet Max,Pharma,OTC Medicines,SKU-PHA-00109,38167.29,8.84,0.0272,81,7,Luxury
+PRD-0110,Filters Deleniti Plus,Auto Parts,Filters,SKU-AUT-00110,31757.5,24.64,0.0336,114,12,Luxury
+PRD-0111,OTC Medicines Dolorem Plus,Pharma,OTC Medicines,SKU-PHA-00111,42893.77,16.56,0.0625,179,14,Luxury
+PRD-0112,Engine Parts Quia Max,Auto Parts,Engine Parts,SKU-AUT-00112,22768.55,15.79,0.0362,141,28,Luxury
+PRD-0113,Cameras Provident ,Electronics,Cameras,SKU-ELE-00113,23125.72,2.8,0.0086,137,22,Luxury
+PRD-0114,Mens Wear Nostrum Max,Apparel,Mens Wear,SKU-APP-00114,10217.73,27.51,0.1296,188,17,Premium
+PRD-0115,Smartphones Exercitationem Lite,Electronics,Smartphones,SKU-ELE-00115,48658.68,30.48,0.0597,89,19,Luxury
+PRD-0116,Cameras Quibusdam Pro,Electronics,Cameras,SKU-ELE-00116,20429.13,11.31,0.0494,128,5,Luxury
+PRD-0117,Household Ullam Max,FMCG,Household,SKU-FMC-00117,46636.02,14.66,0.056,133,17,Luxury
+PRD-0118,Household Cupiditate ,FMCG,Household,SKU-FMC-00118,27585.69,19.24,0.0902,44,29,Luxury
+PRD-0119,Tablets Est ,Electronics,Tablets,SKU-ELE-00119,38645.12,42.74,0.1008,78,28,Luxury
+PRD-0120,Tablets Pariatur Max,Electronics,Tablets,SKU-ELE-00120,36316.25,41.89,0.1391,48,16,Luxury
+PRD-0121,Filters Maiores Max,Auto Parts,Filters,SKU-AUT-00121,17288.94,27.64,0.0877,92,29,Premium
+PRD-0122,Beverages Amet Pro,FMCG,Beverages,SKU-FMC-00122,28611.29,11.75,0.0482,91,25,Luxury
+PRD-0123,Sportswear Distinctio Lite,Apparel,Sportswear,SKU-APP-00123,19334.63,33.22,0.1423,136,3,Premium
+PRD-0124,Dairy Commodi Max,FMCG,Dairy,SKU-FMC-00124,48269.41,16.67,0.0234,35,18,Luxury
+PRD-0125,Mens Wear Necessitatibus Lite,Apparel,Mens Wear,SKU-APP-00125,36136.07,20.56,0.0744,29,17,Luxury
+PRD-0126,Surgical Supplies Delectus Plus,Pharma,Surgical Supplies,SKU-PHA-00126,31181.81,19.93,0.0263,182,29,Luxury
+PRD-0127,Filters Voluptatem Max,Auto Parts,Filters,SKU-AUT-00127,47709.27,31.38,0.1428,148,3,Luxury
+PRD-0128,Engine Parts Unde Lite,Auto Parts,Engine Parts,SKU-AUT-00128,11776.77,34.25,0.0736,33,15,Premium
+PRD-0129,Smartphones Omnis Pro,Electronics,Smartphones,SKU-ELE-00129,22211.74,34.73,0.1602,93,27,Luxury
+PRD-0130,Tablets Accusantium Max,Electronics,Tablets,SKU-ELE-00130,17955.24,21.59,0.0427,154,23,Premium
+PRD-0131,Beverages A Lite,FMCG,Beverages,SKU-FMC-00131,8794.71,30.51,0.0772,137,20,Premium
+PRD-0132,Beverages Commodi Pro,FMCG,Beverages,SKU-FMC-00132,23084.44,12.77,0.0258,129,30,Luxury
+PRD-0133,Prescription Drugs Reprehenderit Plus,Pharma,Prescription Drugs,SKU-PHA-00133,3739.4,47.27,0.234,173,15,Mid-Range
+PRD-0134,Vitamins Illo Max,Pharma,Vitamins,SKU-PHA-00134,42272.93,10.04,0.0255,37,9,Luxury
+PRD-0135,Footwear Nisi Pro,Apparel,Footwear,SKU-APP-00135,17980.01,14.86,0.0564,178,14,Premium
+PRD-0136,OTC Medicines Minima Pro,Pharma,OTC Medicines,SKU-PHA-00136,28318.15,34.32,0.1365,165,25,Luxury
+PRD-0137,Kids Wear Non Lite,Apparel,Kids Wear,SKU-APP-00137,38798.26,11.58,0.0487,172,8,Luxury
+PRD-0138,Batteries Nobis Lite,Auto Parts,Batteries,SKU-AUT-00138,33904.33,36.07,0.1312,170,5,Luxury
+PRD-0139,Tablets Est Lite,Electronics,Tablets,SKU-ELE-00139,39441.09,1.76,0.0043,33,11,Luxury
+PRD-0140,Vitamins Iusto Plus,Pharma,Vitamins,SKU-PHA-00140,8823.22,6.69,0.0211,145,18,Premium
+PRD-0141,Prescription Drugs Error Plus,Pharma,Prescription Drugs,SKU-PHA-00141,12885.66,41.25,0.1208,96,27,Premium
+PRD-0142,Headphones Corporis Max,Electronics,Headphones,SKU-ELE-00142,48146.52,7.12,0.0346,152,13,Luxury
+PRD-0143,Headphones Optio Plus,Electronics,Headphones,SKU-ELE-00143,745.24,26.87,0.0758,159,14,Mid-Range
+PRD-0144,OTC Medicines Quas ,Pharma,OTC Medicines,SKU-PHA-00144,33758.09,23.63,0.0822,93,21,Luxury
+PRD-0145,Packaged Food Necessitatibus Max,FMCG,Packaged Food,SKU-FMC-00145,31788.43,23.27,0.0885,39,6,Luxury
+PRD-0146,Smartphones Consequatur ,Electronics,Smartphones,SKU-ELE-00146,15253.01,24.68,0.0343,44,14,Premium
+PRD-0147,Kids Wear Asperiores Max,Apparel,Kids Wear,SKU-APP-00147,33540.79,37.18,0.1779,160,25,Luxury
+PRD-0148,Household Dolores Plus,FMCG,Household,SKU-FMC-00148,32763.35,41.7,0.1444,18,24,Luxury
+PRD-0149,Prescription Drugs Laborum Pro,Pharma,Prescription Drugs,SKU-PHA-00149,22196.99,47.53,0.2102,185,13,Luxury
+PRD-0150,Batteries Reprehenderit Max,Auto Parts,Batteries,SKU-AUT-00150,3074.48,13.87,0.0676,33,23,Mid-Range
+PRD-0151,Dairy Ratione Lite,FMCG,Dairy,SKU-FMC-00151,48556.11,2.62,0.0061,154,8,Luxury
+PRD-0152,Cameras Nam Plus,Electronics,Cameras,SKU-ELE-00152,10397.51,10.88,0.0487,47,27,Premium
+PRD-0153,Engine Parts Nam ,Auto Parts,Engine Parts,SKU-AUT-00153,13899.88,49.2,0.2435,74,27,Premium
+PRD-0154,Packaged Food Fugiat Lite,FMCG,Packaged Food,SKU-FMC-00154,33069.83,1.39,0.0015,160,12,Luxury
+PRD-0155,Laptops Recusandae Pro,Electronics,Laptops,SKU-ELE-00155,13305.11,6.43,0.0173,200,4,Premium
+PRD-0156,Sportswear Eos ,Apparel,Sportswear,SKU-APP-00156,38911.95,25.71,0.0369,66,21,Luxury
+PRD-0157,Cameras Dolores Max,Electronics,Cameras,SKU-ELE-00157,15116.43,32.2,0.0362,112,15,Premium
+PRD-0158,Headphones Repudiandae Plus,Electronics,Headphones,SKU-ELE-00158,35634.45,22.23,0.1022,165,6,Luxury
+PRD-0159,Laptops Eos Plus,Electronics,Laptops,SKU-ELE-00159,13787.05,31.69,0.1012,107,21,Premium
+PRD-0160,Batteries Delectus Pro,Auto Parts,Batteries,SKU-AUT-00160,22713.09,30.31,0.0423,177,22,Luxury
+PRD-0161,Tyres Deserunt Max,Auto Parts,Tyres,SKU-AUT-00161,21531.99,44.42,0.1179,112,15,Luxury
+PRD-0162,Tablets Tempore Lite,Electronics,Tablets,SKU-ELE-00162,21366.86,33.29,0.0831,185,17,Luxury
+PRD-0163,Smartphones Porro Plus,Electronics,Smartphones,SKU-ELE-00163,41597.01,4.75,0.0066,43,19,Luxury
+PRD-0164,Cameras Aliquam Max,Electronics,Cameras,SKU-ELE-00164,47833.4,28.13,0.1035,100,29,Luxury
+PRD-0165,Mens Wear Voluptate ,Apparel,Mens Wear,SKU-APP-00165,48421.51,30.06,0.0723,139,8,Luxury
+PRD-0166,Household Praesentium Plus,FMCG,Household,SKU-FMC-00166,11251.03,5.5,0.0241,39,26,Premium
+PRD-0167,Prescription Drugs Quidem ,Pharma,Prescription Drugs,SKU-PHA-00167,40370.71,42.27,0.207,167,23,Luxury
+PRD-0168,Engine Parts Vel Pro,Auto Parts,Engine Parts,SKU-AUT-00168,30469.3,32.93,0.1243,56,10,Luxury
+PRD-0169,Surgical Supplies Accusamus Max,Pharma,Surgical Supplies,SKU-PHA-00169,17583.62,9.15,0.0144,27,6,Premium
+PRD-0170,Smartphones Deserunt Plus,Electronics,Smartphones,SKU-ELE-00170,37318.28,10.84,0.029,50,13,Luxury
+PRD-0171,Surgical Supplies Tempora Pro,Pharma,Surgical Supplies,SKU-PHA-00171,38852.94,28.42,0.0381,49,7,Luxury
+PRD-0172,Engine Parts Earum Max,Auto Parts,Engine Parts,SKU-AUT-00172,33714.74,13.68,0.0499,165,16,Luxury
+PRD-0173,Kids Wear Tenetur Pro,Apparel,Kids Wear,SKU-APP-00173,10817.67,25.67,0.0611,82,23,Premium
+PRD-0174,Filters Unde ,Auto Parts,Filters,SKU-AUT-00174,26370.36,15.49,0.0292,24,2,Luxury
+PRD-0175,Personal Care Quibusdam Plus,FMCG,Personal Care,SKU-FMC-00175,47268.94,38.39,0.1557,93,5,Luxury
+PRD-0176,Headphones Blanditiis Lite,Electronics,Headphones,SKU-ELE-00176,37363.36,8.87,0.0224,138,19,Luxury
+PRD-0177,OTC Medicines Ipsam Max,Pharma,OTC Medicines,SKU-PHA-00177,19883.71,37.13,0.1019,29,29,Premium
+PRD-0178,Vitamins Est Pro,Pharma,Vitamins,SKU-PHA-00178,28691.31,35.5,0.0948,113,2,Luxury
+PRD-0179,Prescription Drugs Minima Plus,Pharma,Prescription Drugs,SKU-PHA-00179,40076.04,30.94,0.1339,32,15,Luxury
+PRD-0180,Laptops Magnam Plus,Electronics,Laptops,SKU-ELE-00180,21812.04,20.08,0.0264,200,12,Luxury
+PRD-0181,Personal Care Dolorem ,FMCG,Personal Care,SKU-FMC-00181,38966.94,3.91,0.0138,140,8,Luxury
+PRD-0182,Surgical Supplies Commodi Lite,Pharma,Surgical Supplies,SKU-PHA-00182,36382.59,40.97,0.1745,36,6,Luxury
+PRD-0183,Prescription Drugs Perferendis Pro,Pharma,Prescription Drugs,SKU-PHA-00183,8716.28,7.73,0.0312,55,26,Premium
+PRD-0184,Sportswear Praesentium ,Apparel,Sportswear,SKU-APP-00184,37734.57,38.02,0.1063,174,22,Luxury
+PRD-0185,Batteries Corrupti Pro,Auto Parts,Batteries,SKU-AUT-00185,43219.13,31.4,0.0504,130,16,Luxury
+PRD-0186,Surgical Supplies Incidunt Max,Pharma,Surgical Supplies,SKU-PHA-00186,29591.42,17.66,0.0229,125,3,Luxury
+PRD-0187,Tablets Delectus Pro,Electronics,Tablets,SKU-ELE-00187,41593.25,3.93,0.0175,167,21,Luxury
+PRD-0188,Filters Deserunt Pro,Auto Parts,Filters,SKU-AUT-00188,23162.45,27.76,0.1157,125,27,Luxury
+PRD-0189,Tyres Eius Pro,Auto Parts,Tyres,SKU-AUT-00189,16110.26,23.83,0.0382,125,5,Premium
+PRD-0190,OTC Medicines Quaerat Max,Pharma,OTC Medicines,SKU-PHA-00190,25252.22,8.71,0.0173,122,18,Luxury
+PRD-0191,Brakes Pariatur Max,Auto Parts,Brakes,SKU-AUT-00191,7979.37,18.71,0.0399,96,23,Premium
+PRD-0192,Engine Parts Corporis Pro,Auto Parts,Engine Parts,SKU-AUT-00192,39471.89,32.4,0.0409,152,23,Luxury
+PRD-0193,Kids Wear Ipsam ,Apparel,Kids Wear,SKU-APP-00193,12637.19,42.59,0.2069,48,12,Premium
+PRD-0194,Cameras Dolor Max,Electronics,Cameras,SKU-ELE-00194,33197.42,45.85,0.1027,43,21,Luxury
+PRD-0195,Tablets Blanditiis Lite,Electronics,Tablets,SKU-ELE-00195,27968.16,32.21,0.0745,181,24,Luxury
+PRD-0196,Engine Parts Reiciendis Plus,Auto Parts,Engine Parts,SKU-AUT-00196,32318.94,21.23,0.052,89,7,Luxury
+PRD-0197,Personal Care Architecto Lite,FMCG,Personal Care,SKU-FMC-00197,47386.03,24.36,0.0464,49,4,Luxury
+PRD-0198,OTC Medicines Optio ,Pharma,OTC Medicines,SKU-PHA-00198,25409.1,27.03,0.1069,19,23,Luxury
+PRD-0199,Prescription Drugs Possimus ,Pharma,Prescription Drugs,SKU-PHA-00199,29882.46,7.8,0.0134,52,25,Luxury
+PRD-0200,Mens Wear A Max,Apparel,Mens Wear,SKU-APP-00200,20572.39,33.85,0.066,166,11,Luxury
+PRD-0201,Womens Wear Vel Max,Apparel,Womens Wear,SKU-APP-00201,26723.86,15.54,0.0658,59,13,Luxury
+PRD-0202,Filters Assumenda ,Auto Parts,Filters,SKU-AUT-00202,23110.91,14.16,0.0358,117,7,Luxury
+PRD-0203,Dairy Quasi Plus,FMCG,Dairy,SKU-FMC-00203,6963.01,12.58,0.0448,151,5,Premium
+PRD-0204,Engine Parts Dicta ,Auto Parts,Engine Parts,SKU-AUT-00204,14288.9,38.18,0.0798,47,28,Premium
+PRD-0205,Mens Wear Omnis Plus,Apparel,Mens Wear,SKU-APP-00205,47323.34,11.18,0.0314,16,15,Luxury
+PRD-0206,Headphones Eligendi Plus,Electronics,Headphones,SKU-ELE-00206,25125.26,11.87,0.0591,67,2,Luxury
+PRD-0207,OTC Medicines Praesentium Lite,Pharma,OTC Medicines,SKU-PHA-00207,41966.86,32.53,0.1355,19,11,Luxury
+PRD-0208,Womens Wear Facilis Pro,Apparel,Womens Wear,SKU-APP-00208,37954.12,23.51,0.0814,14,10,Luxury
+PRD-0209,Beverages Tempora Pro,FMCG,Beverages,SKU-FMC-00209,27462.77,36.39,0.1132,83,9,Luxury
+PRD-0210,OTC Medicines Quo Max,Pharma,OTC Medicines,SKU-PHA-00210,2435.08,21.05,0.0879,26,5,Mid-Range
+PRD-0211,Footwear Expedita Lite,Apparel,Footwear,SKU-APP-00211,26825.89,31.63,0.1044,84,15,Luxury
+PRD-0212,Cameras Aspernatur Pro,Electronics,Cameras,SKU-ELE-00212,17673.16,28.58,0.05,144,13,Premium
+PRD-0213,Cameras Eaque Pro,Electronics,Cameras,SKU-ELE-00213,27226.89,39.34,0.1192,109,29,Luxury
+PRD-0214,Mens Wear Accusantium Pro,Apparel,Mens Wear,SKU-APP-00214,31801.76,49.05,0.0988,101,27,Luxury
+PRD-0215,Tablets Consequatur ,Electronics,Tablets,SKU-ELE-00215,12094.24,32.89,0.0465,198,26,Premium
+PRD-0216,Prescription Drugs Id Lite,Pharma,Prescription Drugs,SKU-PHA-00216,2264.57,27.35,0.1163,185,16,Mid-Range
+PRD-0217,Womens Wear Doloremque Max,Apparel,Womens Wear,SKU-APP-00217,40584.31,3.25,0.0133,19,11,Luxury
+PRD-0218,Packaged Food Molestias Plus,FMCG,Packaged Food,SKU-FMC-00218,39565.91,44.3,0.1002,141,14,Luxury
+PRD-0219,Filters Amet Plus,Auto Parts,Filters,SKU-AUT-00219,12703.02,37.69,0.0665,22,29,Premium
+PRD-0220,Surgical Supplies Nobis Max,Pharma,Surgical Supplies,SKU-PHA-00220,6267.53,18.46,0.0841,108,12,Premium
+PRD-0221,Household Minus Plus,FMCG,Household,SKU-FMC-00221,34618.82,18.43,0.0772,31,25,Luxury
+PRD-0222,Mens Wear Doloremque Plus,Apparel,Mens Wear,SKU-APP-00222,21558.83,49.76,0.0857,92,5,Luxury
+PRD-0223,Tablets Officia Max,Electronics,Tablets,SKU-ELE-00223,33062.92,15.39,0.0525,52,24,Luxury
+PRD-0224,Kids Wear Explicabo ,Apparel,Kids Wear,SKU-APP-00224,22384.13,36.37,0.169,121,10,Luxury
+PRD-0225,Smartphones Maiores Lite,Electronics,Smartphones,SKU-ELE-00225,33575.64,20.37,0.0622,17,6,Luxury
+PRD-0226,Filters Nobis Plus,Auto Parts,Filters,SKU-AUT-00226,1788.21,3.45,0.0142,102,14,Mid-Range
+PRD-0227,Engine Parts Dignissimos Plus,Auto Parts,Engine Parts,SKU-AUT-00227,30274.49,33.99,0.163,123,26,Luxury
+PRD-0228,Cameras Odio Plus,Electronics,Cameras,SKU-ELE-00228,6927.87,18.41,0.0416,73,5,Premium
+PRD-0229,Laptops Ut Plus,Electronics,Laptops,SKU-ELE-00229,24977.25,19.41,0.063,76,24,Luxury
+PRD-0230,Womens Wear Quos Max,Apparel,Womens Wear,SKU-APP-00230,49818.44,14.35,0.067,61,5,Luxury
+PRD-0231,Packaged Food Tempore Pro,FMCG,Packaged Food,SKU-FMC-00231,22629.53,44.94,0.125,184,29,Luxury
+PRD-0232,Surgical Supplies Ipsa Plus,Pharma,Surgical Supplies,SKU-PHA-00232,35491.55,27.54,0.0595,50,24,Luxury
+PRD-0233,Personal Care Molestias Lite,FMCG,Personal Care,SKU-FMC-00233,25462.35,6.16,0.0111,70,27,Luxury
+PRD-0234,Mens Wear Expedita ,Apparel,Mens Wear,SKU-APP-00234,18076.78,28.66,0.0822,43,21,Premium
+PRD-0235,Smartphones Libero ,Electronics,Smartphones,SKU-ELE-00235,15499.07,49.98,0.1937,115,26,Premium
+PRD-0236,Footwear Accusamus Max,Apparel,Footwear,SKU-APP-00236,3733.85,48.62,0.1735,129,23,Mid-Range
+PRD-0237,Batteries Libero ,Auto Parts,Batteries,SKU-AUT-00237,6460.31,41.47,0.1329,56,26,Premium
+PRD-0238,Household Exercitationem ,FMCG,Household,SKU-FMC-00238,25168.05,43.42,0.1878,49,11,Luxury
+PRD-0239,Beverages Unde ,FMCG,Beverages,SKU-FMC-00239,16166.9,35.5,0.0846,82,29,Premium
+PRD-0240,Tablets Quod Plus,Electronics,Tablets,SKU-ELE-00240,9855.28,47.82,0.1003,167,19,Premium
+PRD-0241,Cameras Distinctio Lite,Electronics,Cameras,SKU-ELE-00241,32067.32,29.63,0.0984,178,21,Luxury
+PRD-0242,Batteries Temporibus Pro,Auto Parts,Batteries,SKU-AUT-00242,42134.37,28.22,0.1214,30,3,Luxury
+PRD-0243,Batteries Impedit Pro,Auto Parts,Batteries,SKU-AUT-00243,32573.94,38.37,0.1023,137,30,Luxury
+PRD-0244,Batteries Id Max,Auto Parts,Batteries,SKU-AUT-00244,32113.27,15.17,0.03,86,16,Luxury
+PRD-0245,Smartphones Ipsam Plus,Electronics,Smartphones,SKU-ELE-00245,7946.12,20.84,0.0596,165,6,Premium
+PRD-0246,Surgical Supplies Ducimus Lite,Pharma,Surgical Supplies,SKU-PHA-00246,36723.28,43.05,0.211,104,18,Luxury
+PRD-0247,Engine Parts Quam Lite,Auto Parts,Engine Parts,SKU-AUT-00247,15989.84,23.38,0.0484,46,5,Premium
+PRD-0248,Tablets Libero Lite,Electronics,Tablets,SKU-ELE-00248,47271.98,43.22,0.1155,93,20,Luxury
+PRD-0249,Prescription Drugs Atque Max,Pharma,Prescription Drugs,SKU-PHA-00249,38167.91,24.96,0.0764,88,17,Luxury
+PRD-0250,Smartphones Nulla Lite,Electronics,Smartphones,SKU-ELE-00250,47264.38,25.32,0.1232,159,13,Luxury
+PRD-0251,Smartphones Temporibus Max,Electronics,Smartphones,SKU-ELE-00251,14103.75,29.92,0.1308,83,19,Premium
+PRD-0252,Smartphones Consectetur Max,Electronics,Smartphones,SKU-ELE-00252,21574.84,44.13,0.1725,103,3,Luxury
+PRD-0253,Mens Wear Dolore Pro,Apparel,Mens Wear,SKU-APP-00253,28535.57,9.81,0.0315,108,18,Luxury
+PRD-0254,Footwear Sunt Pro,Apparel,Footwear,SKU-APP-00254,14022.05,49.46,0.1841,42,5,Premium
+PRD-0255,Kids Wear Maxime Lite,Apparel,Kids Wear,SKU-APP-00255,39755.12,17.02,0.0809,60,21,Luxury
+PRD-0256,Filters Dolorum Plus,Auto Parts,Filters,SKU-AUT-00256,25028.89,2.36,0.0037,131,18,Luxury
+PRD-0257,Womens Wear Possimus ,Apparel,Womens Wear,SKU-APP-00257,30332.71,25.82,0.0597,91,7,Luxury
+PRD-0258,Footwear Facilis ,Apparel,Footwear,SKU-APP-00258,36979.0,15.03,0.0353,146,17,Luxury
+PRD-0259,Batteries Veritatis Pro,Auto Parts,Batteries,SKU-AUT-00259,23770.89,0.93,0.0022,116,20,Luxury
+PRD-0260,OTC Medicines Perspiciatis ,Pharma,OTC Medicines,SKU-PHA-00260,29865.64,13.35,0.0484,157,9,Luxury
+PRD-0261,Cameras Autem Max,Electronics,Cameras,SKU-ELE-00261,24048.42,26.26,0.102,47,28,Luxury
+PRD-0262,Packaged Food Ut Max,FMCG,Packaged Food,SKU-FMC-00262,28649.89,35.06,0.0618,90,15,Luxury
+PRD-0263,Household Eveniet Max,FMCG,Household,SKU-FMC-00263,34540.49,20.58,0.0844,198,25,Luxury
+PRD-0264,Laptops Eaque Max,Electronics,Laptops,SKU-ELE-00264,25958.23,28.09,0.1402,144,14,Luxury
+PRD-0265,Prescription Drugs Ullam Plus,Pharma,Prescription Drugs,SKU-PHA-00265,23010.19,26.7,0.085,166,17,Luxury
+PRD-0266,Beverages Explicabo Plus,FMCG,Beverages,SKU-FMC-00266,13986.37,15.0,0.0715,83,24,Premium
+PRD-0267,Household Eaque Plus,FMCG,Household,SKU-FMC-00267,15886.19,17.51,0.0829,83,5,Premium
+PRD-0268,Brakes Minima Lite,Auto Parts,Brakes,SKU-AUT-00268,19015.72,49.01,0.2094,84,3,Premium
+PRD-0269,OTC Medicines Itaque Max,Pharma,OTC Medicines,SKU-PHA-00269,17350.86,22.17,0.0449,64,8,Premium
+PRD-0270,Batteries Fuga ,Auto Parts,Batteries,SKU-AUT-00270,46654.55,34.84,0.054,199,20,Luxury
+PRD-0271,Beverages Recusandae Lite,FMCG,Beverages,SKU-FMC-00271,2585.73,45.27,0.0861,23,5,Mid-Range
+PRD-0272,Kids Wear Voluptatibus Pro,Apparel,Kids Wear,SKU-APP-00272,35882.03,5.12,0.0209,150,7,Luxury
+PRD-0273,Sportswear Cum Plus,Apparel,Sportswear,SKU-APP-00273,23898.55,10.05,0.0488,83,22,Luxury
+PRD-0274,Smartphones Nam Pro,Electronics,Smartphones,SKU-ELE-00274,32632.32,11.69,0.0462,54,15,Luxury
+PRD-0275,Packaged Food Eum Plus,FMCG,Packaged Food,SKU-FMC-00275,49858.73,19.91,0.0594,19,2,Luxury
+PRD-0276,OTC Medicines Sapiente ,Pharma,OTC Medicines,SKU-PHA-00276,46426.32,16.82,0.0474,144,17,Luxury
+PRD-0277,Dairy Sunt Lite,FMCG,Dairy,SKU-FMC-00277,23427.64,9.72,0.0141,197,16,Luxury
+PRD-0278,Prescription Drugs Assumenda Lite,Pharma,Prescription Drugs,SKU-PHA-00278,753.51,16.92,0.0369,54,21,Mid-Range
+PRD-0279,Sportswear Explicabo Lite,Apparel,Sportswear,SKU-APP-00279,25788.27,4.43,0.0163,45,17,Luxury
+PRD-0280,Prescription Drugs Fugiat Plus,Pharma,Prescription Drugs,SKU-PHA-00280,391.16,19.24,0.0536,94,11,Budget
+PRD-0281,Brakes Ex Pro,Auto Parts,Brakes,SKU-AUT-00281,621.21,32.72,0.1234,180,5,Mid-Range
+PRD-0282,Kids Wear Saepe Plus,Apparel,Kids Wear,SKU-APP-00282,8027.86,34.34,0.1611,186,5,Premium
+PRD-0283,Surgical Supplies Optio Lite,Pharma,Surgical Supplies,SKU-PHA-00283,30750.54,11.03,0.0169,126,25,Luxury
+PRD-0284,Batteries Expedita ,Auto Parts,Batteries,SKU-AUT-00284,20821.49,27.51,0.0793,180,28,Luxury
+PRD-0285,Beverages Et ,FMCG,Beverages,SKU-FMC-00285,34033.08,29.83,0.1238,124,18,Luxury
+PRD-0286,OTC Medicines Consectetur ,Pharma,OTC Medicines,SKU-PHA-00286,45866.37,5.7,0.0246,61,20,Luxury
+PRD-0287,Tyres Libero Lite,Auto Parts,Tyres,SKU-AUT-00287,8268.63,42.74,0.1183,193,20,Premium
+PRD-0288,Mens Wear Rem Lite,Apparel,Mens Wear,SKU-APP-00288,44949.52,22.33,0.0273,141,15,Luxury
+PRD-0289,Footwear Cupiditate Pro,Apparel,Footwear,SKU-APP-00289,2933.95,23.17,0.098,111,10,Mid-Range
+PRD-0290,Laptops Eaque Pro,Electronics,Laptops,SKU-ELE-00290,28936.65,2.36,0.0056,148,3,Luxury
+PRD-0291,Headphones Laborum Max,Electronics,Headphones,SKU-ELE-00291,1635.16,20.5,0.0836,105,30,Mid-Range
+PRD-0292,Sportswear Odio ,Apparel,Sportswear,SKU-APP-00292,43487.53,45.35,0.1135,44,22,Luxury
+PRD-0293,OTC Medicines Neque Lite,Pharma,OTC Medicines,SKU-PHA-00293,8964.76,26.91,0.0838,10,26,Premium
+PRD-0294,Tablets Nulla Max,Electronics,Tablets,SKU-ELE-00294,23177.04,35.98,0.097,68,9,Luxury
+PRD-0295,Kids Wear Illo Pro,Apparel,Kids Wear,SKU-APP-00295,7798.31,9.51,0.0428,18,27,Premium
+PRD-0296,Footwear Adipisci Lite,Apparel,Footwear,SKU-APP-00296,38314.37,44.2,0.047,27,5,Luxury
+PRD-0297,Engine Parts Nisi Lite,Auto Parts,Engine Parts,SKU-AUT-00297,22349.73,33.63,0.151,199,3,Luxury
+PRD-0298,Sportswear Excepturi Pro,Apparel,Sportswear,SKU-APP-00298,11755.25,10.94,0.0487,45,18,Premium
+PRD-0299,Prescription Drugs Id ,Pharma,Prescription Drugs,SKU-PHA-00299,40798.52,36.6,0.0833,182,28,Luxury
+PRD-0300,Prescription Drugs Fugiat Lite,Pharma,Prescription Drugs,SKU-PHA-00300,15123.13,7.25,0.0264,115,11,Premium
+PRD-0301,OTC Medicines Consequuntur Lite,Pharma,OTC Medicines,SKU-PHA-00301,27858.07,29.62,0.1167,170,23,Luxury
+PRD-0302,Footwear Quae Max,Apparel,Footwear,SKU-APP-00302,24806.26,48.62,0.2317,144,12,Luxury
+PRD-0303,Sportswear Iusto Max,Apparel,Sportswear,SKU-APP-00303,7503.42,18.89,0.0759,71,29,Premium
+PRD-0304,Personal Care Consequatur Pro,FMCG,Personal Care,SKU-FMC-00304,42884.18,7.3,0.0208,153,15,Luxury
+PRD-0305,Footwear In Plus,Apparel,Footwear,SKU-APP-00305,26523.09,19.48,0.0393,175,4,Luxury
+PRD-0306,Kids Wear Tempore Plus,Apparel,Kids Wear,SKU-APP-00306,4668.58,36.26,0.0639,106,23,Mid-Range
+PRD-0307,Brakes Nostrum ,Auto Parts,Brakes,SKU-AUT-00307,2025.4,3.73,0.0157,195,23,Mid-Range
+PRD-0308,Tyres Dignissimos Pro,Auto Parts,Tyres,SKU-AUT-00308,23995.74,43.49,0.1014,64,8,Luxury
+PRD-0309,Headphones Officia Max,Electronics,Headphones,SKU-ELE-00309,45726.34,34.81,0.1328,71,19,Luxury
+PRD-0310,Surgical Supplies Cum Plus,Pharma,Surgical Supplies,SKU-PHA-00310,19064.05,26.73,0.0651,102,18,Premium
+PRD-0311,Sportswear Quibusdam Plus,Apparel,Sportswear,SKU-APP-00311,4975.48,49.07,0.1412,62,13,Mid-Range
+PRD-0312,Vitamins Ducimus Pro,Pharma,Vitamins,SKU-PHA-00312,2333.49,43.22,0.1714,76,19,Mid-Range
+PRD-0313,Brakes Assumenda Lite,Auto Parts,Brakes,SKU-AUT-00313,36014.6,14.83,0.0265,107,20,Luxury
+PRD-0314,Household Quisquam Max,FMCG,Household,SKU-FMC-00314,27554.59,47.18,0.1109,195,22,Luxury
+PRD-0315,Sportswear Unde ,Apparel,Sportswear,SKU-APP-00315,8453.27,39.77,0.0667,135,7,Premium
+PRD-0316,Engine Parts Quos Pro,Auto Parts,Engine Parts,SKU-AUT-00316,26221.02,41.97,0.0544,11,15,Luxury
+PRD-0317,Beverages Pariatur Max,FMCG,Beverages,SKU-FMC-00317,3445.0,7.64,0.0143,105,3,Mid-Range
+PRD-0318,Brakes Accusamus ,Auto Parts,Brakes,SKU-AUT-00318,45641.94,33.0,0.0351,151,15,Luxury
+PRD-0319,Smartphones Vitae Pro,Electronics,Smartphones,SKU-ELE-00319,26494.41,13.81,0.0678,138,28,Luxury
+PRD-0320,Womens Wear Voluptates Lite,Apparel,Womens Wear,SKU-APP-00320,5395.47,4.91,0.0078,168,18,Premium
+PRD-0321,Surgical Supplies Aliquam Max,Pharma,Surgical Supplies,SKU-PHA-00321,13402.87,19.91,0.0496,127,20,Premium
+PRD-0322,Beverages Explicabo Pro,FMCG,Beverages,SKU-FMC-00322,15033.73,41.42,0.0548,33,14,Premium
+PRD-0323,Sportswear Tenetur Lite,Apparel,Sportswear,SKU-APP-00323,27657.44,2.9,0.003,31,17,Luxury
+PRD-0324,Kids Wear Quidem ,Apparel,Kids Wear,SKU-APP-00324,28314.54,42.91,0.0593,20,9,Luxury
+PRD-0325,Dairy Inventore Plus,FMCG,Dairy,SKU-FMC-00325,23801.24,2.42,0.0031,149,20,Luxury
+PRD-0326,Laptops Ipsa ,Electronics,Laptops,SKU-ELE-00326,46441.88,15.79,0.0765,46,26,Luxury
+PRD-0327,Mens Wear Nihil Max,Apparel,Mens Wear,SKU-APP-00327,14998.88,28.24,0.0923,183,30,Premium
+PRD-0328,Batteries Eveniet Pro,Auto Parts,Batteries,SKU-AUT-00328,19223.12,37.01,0.154,138,25,Premium
+PRD-0329,OTC Medicines Fugiat ,Pharma,OTC Medicines,SKU-PHA-00329,4929.41,11.68,0.0152,167,21,Mid-Range
+PRD-0330,Kids Wear Dolorum Max,Apparel,Kids Wear,SKU-APP-00330,1529.8,13.74,0.0683,68,13,Mid-Range
+PRD-0331,Filters Perferendis Pro,Auto Parts,Filters,SKU-AUT-00331,21620.8,34.02,0.1239,168,11,Luxury
+PRD-0332,Packaged Food Et Lite,FMCG,Packaged Food,SKU-FMC-00332,4147.8,7.8,0.03,199,14,Mid-Range
+PRD-0333,Surgical Supplies Tempora Plus,Pharma,Surgical Supplies,SKU-PHA-00333,5372.22,0.36,0.0008,79,5,Premium
+PRD-0334,Packaged Food Blanditiis Max,FMCG,Packaged Food,SKU-FMC-00334,9410.22,22.5,0.0724,36,2,Premium
+PRD-0335,Tablets Tenetur Max,Electronics,Tablets,SKU-ELE-00335,27733.28,29.89,0.1237,13,11,Luxury
+PRD-0336,Sportswear Enim Lite,Apparel,Sportswear,SKU-APP-00336,38969.5,36.27,0.1174,156,18,Luxury
+PRD-0337,Household Odit Lite,FMCG,Household,SKU-FMC-00337,8516.61,13.52,0.028,26,7,Premium
+PRD-0338,Kids Wear Quod Plus,Apparel,Kids Wear,SKU-APP-00338,21084.06,24.26,0.0317,73,25,Luxury
+PRD-0339,Footwear Incidunt Pro,Apparel,Footwear,SKU-APP-00339,30852.61,22.95,0.0354,111,12,Luxury
+PRD-0340,Filters Ullam ,Auto Parts,Filters,SKU-AUT-00340,40213.62,16.54,0.0387,44,11,Luxury
+PRD-0341,Prescription Drugs Ea Plus,Pharma,Prescription Drugs,SKU-PHA-00341,23976.54,8.96,0.0232,84,25,Luxury
+PRD-0342,Footwear Beatae Max,Apparel,Footwear,SKU-APP-00342,39109.62,16.36,0.0347,103,5,Luxury
+PRD-0343,Tyres Laborum ,Auto Parts,Tyres,SKU-AUT-00343,29631.74,27.33,0.1019,16,25,Luxury
+PRD-0344,Womens Wear Vel Max,Apparel,Womens Wear,SKU-APP-00344,21950.82,14.64,0.0552,182,17,Luxury
+PRD-0345,Personal Care Vero Max,FMCG,Personal Care,SKU-FMC-00345,12138.96,32.97,0.1273,28,16,Premium
+PRD-0346,Filters Amet Max,Auto Parts,Filters,SKU-AUT-00346,29133.09,26.76,0.1256,149,3,Luxury
+PRD-0347,OTC Medicines Dolor Lite,Pharma,OTC Medicines,SKU-PHA-00347,5513.0,12.49,0.0457,175,21,Premium
+PRD-0348,Cameras Cupiditate Plus,Electronics,Cameras,SKU-ELE-00348,49181.23,33.91,0.0881,120,5,Luxury
+PRD-0349,Smartphones Atque ,Electronics,Smartphones,SKU-ELE-00349,12973.98,25.58,0.0787,186,20,Premium
+PRD-0350,Household Nemo ,FMCG,Household,SKU-FMC-00350,18737.27,23.21,0.0863,48,13,Premium
+PRD-0351,Headphones Sequi Pro,Electronics,Headphones,SKU-ELE-00351,5272.24,20.86,0.1011,196,6,Premium
+PRD-0352,Surgical Supplies Eveniet Plus,Pharma,Surgical Supplies,SKU-PHA-00352,17186.18,39.24,0.121,131,5,Premium
+PRD-0353,Sportswear Quo Pro,Apparel,Sportswear,SKU-APP-00353,15979.53,15.08,0.064,15,29,Premium
+PRD-0354,OTC Medicines Eius Lite,Pharma,OTC Medicines,SKU-PHA-00354,33873.11,8.3,0.041,142,7,Luxury
+PRD-0355,Tyres Occaecati Max,Auto Parts,Tyres,SKU-AUT-00355,16582.93,21.38,0.0609,171,7,Premium
+PRD-0356,Household Tenetur Max,FMCG,Household,SKU-FMC-00356,19809.34,36.9,0.1672,161,15,Premium
+PRD-0357,Mens Wear Corrupti Pro,Apparel,Mens Wear,SKU-APP-00357,35251.54,10.37,0.0416,157,5,Luxury
+PRD-0358,Tyres Mollitia Max,Auto Parts,Tyres,SKU-AUT-00358,18321.36,9.93,0.0145,145,22,Premium
+PRD-0359,Vitamins Aspernatur Max,Pharma,Vitamins,SKU-PHA-00359,30584.86,29.39,0.0703,168,7,Luxury
+PRD-0360,OTC Medicines Eos Pro,Pharma,OTC Medicines,SKU-PHA-00360,33621.9,15.73,0.0307,56,13,Luxury
+PRD-0361,Dairy Praesentium Max,FMCG,Dairy,SKU-FMC-00361,19453.74,29.86,0.0985,57,17,Premium
+PRD-0362,Tyres Error Plus,Auto Parts,Tyres,SKU-AUT-00362,27767.88,24.53,0.0383,125,21,Luxury
+PRD-0363,Tablets Voluptatem Max,Electronics,Tablets,SKU-ELE-00363,47594.51,24.28,0.0432,153,18,Luxury
+PRD-0364,Sportswear Molestias Max,Apparel,Sportswear,SKU-APP-00364,34250.6,20.84,0.0909,52,4,Luxury
+PRD-0365,Engine Parts Maiores Lite,Auto Parts,Engine Parts,SKU-AUT-00365,39804.25,11.1,0.0126,147,11,Luxury
+PRD-0366,Household Consectetur ,FMCG,Household,SKU-FMC-00366,28304.24,38.65,0.1152,38,20,Luxury
+PRD-0367,Tablets Laboriosam Pro,Electronics,Tablets,SKU-ELE-00367,38766.9,41.18,0.1016,194,16,Luxury
+PRD-0368,Tyres Id Lite,Auto Parts,Tyres,SKU-AUT-00368,49489.3,5.21,0.0225,86,29,Luxury
+PRD-0369,Headphones Accusamus Pro,Electronics,Headphones,SKU-ELE-00369,13177.62,43.12,0.0581,70,8,Premium
+PRD-0370,Batteries Eaque ,Auto Parts,Batteries,SKU-AUT-00370,43059.38,30.55,0.0829,45,27,Luxury
+PRD-0371,Beverages Facilis ,FMCG,Beverages,SKU-FMC-00371,40281.75,28.55,0.0893,147,7,Luxury
+PRD-0372,Surgical Supplies Eveniet Pro,Pharma,Surgical Supplies,SKU-PHA-00372,14502.2,13.44,0.0596,44,26,Premium
+PRD-0373,Mens Wear Tempora Lite,Apparel,Mens Wear,SKU-APP-00373,49624.69,43.37,0.0654,73,6,Luxury
+PRD-0374,Prescription Drugs Eum ,Pharma,Prescription Drugs,SKU-PHA-00374,38085.61,33.84,0.1001,171,10,Luxury
+PRD-0375,Sportswear Sunt Pro,Apparel,Sportswear,SKU-APP-00375,22626.99,31.72,0.1434,113,18,Luxury
+PRD-0376,Surgical Supplies Tenetur Pro,Pharma,Surgical Supplies,SKU-PHA-00376,22762.05,24.45,0.0814,197,16,Luxury
+PRD-0377,OTC Medicines Explicabo Lite,Pharma,OTC Medicines,SKU-PHA-00377,39794.11,19.95,0.0972,136,10,Luxury
+PRD-0378,Surgical Supplies Ab Max,Pharma,Surgical Supplies,SKU-PHA-00378,16920.87,28.94,0.0945,97,30,Premium
+PRD-0379,Smartphones Atque Pro,Electronics,Smartphones,SKU-ELE-00379,5023.76,39.22,0.1113,50,16,Premium
+PRD-0380,Mens Wear Dicta Lite,Apparel,Mens Wear,SKU-APP-00380,49592.32,21.45,0.1069,176,11,Luxury
+PRD-0381,Personal Care Ratione Lite,FMCG,Personal Care,SKU-FMC-00381,4712.33,18.09,0.0241,23,14,Mid-Range
+PRD-0382,Prescription Drugs Cum Lite,Pharma,Prescription Drugs,SKU-PHA-00382,21490.09,4.65,0.0064,132,4,Luxury
+PRD-0383,Dairy Inventore Plus,FMCG,Dairy,SKU-FMC-00383,11348.23,34.03,0.0353,40,29,Premium
+PRD-0384,Womens Wear Ea Pro,Apparel,Womens Wear,SKU-APP-00384,23911.13,11.52,0.0156,36,12,Luxury
+PRD-0385,Surgical Supplies Laboriosam Lite,Pharma,Surgical Supplies,SKU-PHA-00385,6899.61,38.7,0.1553,174,23,Premium
+PRD-0386,Packaged Food Qui Max,FMCG,Packaged Food,SKU-FMC-00386,26548.89,0.52,0.0019,99,25,Luxury
+PRD-0387,Beverages Consequuntur Lite,FMCG,Beverages,SKU-FMC-00387,45998.71,30.84,0.0854,32,30,Luxury
+PRD-0388,Laptops Nihil Max,Electronics,Laptops,SKU-ELE-00388,37634.66,29.52,0.0749,90,27,Luxury
+PRD-0389,Beverages Ea ,FMCG,Beverages,SKU-FMC-00389,13884.53,4.3,0.0138,194,21,Premium
+PRD-0390,OTC Medicines Et ,Pharma,OTC Medicines,SKU-PHA-00390,42402.21,32.95,0.0727,165,18,Luxury
+PRD-0391,Household Repellat Lite,FMCG,Household,SKU-FMC-00391,14812.33,2.82,0.0129,136,14,Premium
+PRD-0392,Laptops Laudantium Pro,Electronics,Laptops,SKU-ELE-00392,25004.15,29.74,0.0926,102,12,Luxury
+PRD-0393,Household Soluta Lite,FMCG,Household,SKU-FMC-00393,43047.66,28.46,0.0701,130,26,Luxury
+PRD-0394,Smartphones Tenetur Pro,Electronics,Smartphones,SKU-ELE-00394,29388.81,0.79,0.0015,111,18,Luxury
+PRD-0395,Vitamins Nisi ,Pharma,Vitamins,SKU-PHA-00395,21207.58,20.17,0.0718,167,6,Luxury
+PRD-0396,OTC Medicines Eaque Lite,Pharma,OTC Medicines,SKU-PHA-00396,15529.85,25.61,0.0464,147,12,Premium
+PRD-0397,Footwear Maiores Pro,Apparel,Footwear,SKU-APP-00397,31733.0,41.74,0.1554,89,24,Luxury
+PRD-0398,Womens Wear Hic Max,Apparel,Womens Wear,SKU-APP-00398,2942.4,4.4,0.012,166,21,Mid-Range
+PRD-0399,Tablets Ipsa Pro,Electronics,Tablets,SKU-ELE-00399,33320.67,32.94,0.0561,191,6,Luxury
+PRD-0400,Laptops Vitae Plus,Electronics,Laptops,SKU-ELE-00400,24845.83,17.4,0.0534,52,13,Luxury
+PRD-0401,Personal Care Omnis Plus,FMCG,Personal Care,SKU-FMC-00401,36660.15,5.99,0.0276,119,10,Luxury
+PRD-0402,Engine Parts Eos Max,Auto Parts,Engine Parts,SKU-AUT-00402,13184.34,48.76,0.1712,126,18,Premium
+PRD-0403,OTC Medicines Error Plus,Pharma,OTC Medicines,SKU-PHA-00403,25005.52,28.39,0.0701,36,30,Luxury
+PRD-0404,Engine Parts Ipsum Pro,Auto Parts,Engine Parts,SKU-AUT-00404,11458.8,25.49,0.03,72,3,Premium
+PRD-0405,Kids Wear Itaque Pro,Apparel,Kids Wear,SKU-APP-00405,19179.82,7.59,0.0359,151,27,Premium
+PRD-0406,Womens Wear Vero Plus,Apparel,Womens Wear,SKU-APP-00406,16124.01,20.87,0.081,29,20,Premium
+PRD-0407,OTC Medicines In ,Pharma,OTC Medicines,SKU-PHA-00407,25126.95,45.11,0.0775,21,14,Luxury
+PRD-0408,Headphones Commodi Pro,Electronics,Headphones,SKU-ELE-00408,43308.31,38.7,0.0868,151,16,Luxury
+PRD-0409,Tablets Deserunt ,Electronics,Tablets,SKU-ELE-00409,10073.52,28.23,0.0625,72,16,Premium
+PRD-0410,Vitamins Quae ,Pharma,Vitamins,SKU-PHA-00410,49889.47,38.82,0.1526,72,6,Luxury
+PRD-0411,Headphones Minus Pro,Electronics,Headphones,SKU-ELE-00411,1244.32,27.12,0.0961,95,2,Mid-Range
+PRD-0412,Kids Wear Pariatur Max,Apparel,Kids Wear,SKU-APP-00412,5242.25,26.54,0.0518,25,6,Premium
+PRD-0413,OTC Medicines Veritatis Max,Pharma,OTC Medicines,SKU-PHA-00413,2242.82,11.65,0.0511,189,30,Mid-Range
+PRD-0414,Vitamins Velit Lite,Pharma,Vitamins,SKU-PHA-00414,48729.01,4.34,0.006,173,28,Luxury
+PRD-0415,Mens Wear Corrupti Lite,Apparel,Mens Wear,SKU-APP-00415,29615.19,3.21,0.0117,70,11,Luxury
+PRD-0416,Surgical Supplies Assumenda Plus,Pharma,Surgical Supplies,SKU-PHA-00416,46305.8,19.71,0.0853,91,16,Luxury
+PRD-0417,Prescription Drugs In ,Pharma,Prescription Drugs,SKU-PHA-00417,3780.64,10.22,0.0421,37,6,Mid-Range
+PRD-0418,Laptops Debitis Plus,Electronics,Laptops,SKU-ELE-00418,22505.86,15.77,0.0234,63,16,Luxury
+PRD-0419,Vitamins Illo Plus,Pharma,Vitamins,SKU-PHA-00419,13287.15,6.08,0.0099,190,24,Premium
+PRD-0420,Engine Parts Delectus Lite,Auto Parts,Engine Parts,SKU-AUT-00420,10790.29,42.84,0.0683,101,14,Premium
+PRD-0421,Engine Parts Maiores Pro,Auto Parts,Engine Parts,SKU-AUT-00421,33875.31,13.08,0.0649,113,29,Luxury
+PRD-0422,Footwear Quae Lite,Apparel,Footwear,SKU-APP-00422,37416.52,12.57,0.0358,41,2,Luxury
+PRD-0423,Laptops Dolor Pro,Electronics,Laptops,SKU-ELE-00423,6579.23,41.2,0.1025,159,20,Premium
+PRD-0424,OTC Medicines Magnam Max,Pharma,OTC Medicines,SKU-PHA-00424,1138.92,3.32,0.0153,42,4,Mid-Range
+PRD-0425,OTC Medicines Porro ,Pharma,OTC Medicines,SKU-PHA-00425,2182.68,23.1,0.0386,120,28,Mid-Range
+PRD-0426,Sportswear Laudantium Lite,Apparel,Sportswear,SKU-APP-00426,1522.64,34.19,0.0578,57,10,Mid-Range
+PRD-0427,Vitamins Aliquam Lite,Pharma,Vitamins,SKU-PHA-00427,44177.02,1.83,0.0064,175,11,Luxury
+PRD-0428,Sportswear Corrupti Max,Apparel,Sportswear,SKU-APP-00428,44144.79,24.0,0.0324,45,15,Luxury
+PRD-0429,Dairy Iure Pro,FMCG,Dairy,SKU-FMC-00429,12494.93,49.7,0.1578,107,27,Premium
+PRD-0430,Vitamins Laborum ,Pharma,Vitamins,SKU-PHA-00430,27248.66,24.29,0.113,92,14,Luxury
+PRD-0431,Prescription Drugs Quaerat Plus,Pharma,Prescription Drugs,SKU-PHA-00431,1351.85,29.9,0.0334,24,27,Mid-Range
+PRD-0432,Footwear Fugit Lite,Apparel,Footwear,SKU-APP-00432,17903.77,29.24,0.0565,35,9,Premium
+PRD-0433,Personal Care Quisquam Lite,FMCG,Personal Care,SKU-FMC-00433,26707.79,39.58,0.1563,157,29,Luxury
+PRD-0434,Kids Wear Debitis Lite,Apparel,Kids Wear,SKU-APP-00434,46763.54,49.58,0.084,161,12,Luxury
+PRD-0435,OTC Medicines Maxime Lite,Pharma,OTC Medicines,SKU-PHA-00435,35187.47,17.65,0.0577,154,8,Luxury
+PRD-0436,Footwear Culpa Lite,Apparel,Footwear,SKU-APP-00436,15487.2,24.57,0.0334,164,9,Premium
+PRD-0437,Cameras Velit Lite,Electronics,Cameras,SKU-ELE-00437,23925.55,16.65,0.0576,97,24,Luxury
+PRD-0438,Personal Care Voluptas Lite,FMCG,Personal Care,SKU-FMC-00438,3024.82,7.47,0.0285,38,29,Mid-Range
+PRD-0439,Batteries Labore Max,Auto Parts,Batteries,SKU-AUT-00439,48029.91,18.74,0.0893,160,5,Luxury
+PRD-0440,Surgical Supplies A Max,Pharma,Surgical Supplies,SKU-PHA-00440,16164.03,48.8,0.1918,173,17,Premium
+PRD-0441,Prescription Drugs Excepturi ,Pharma,Prescription Drugs,SKU-PHA-00441,35373.79,28.14,0.1283,101,9,Luxury
+PRD-0442,Tyres Recusandae Lite,Auto Parts,Tyres,SKU-AUT-00442,18950.29,36.73,0.08,196,2,Premium
+PRD-0443,Filters Tenetur Lite,Auto Parts,Filters,SKU-AUT-00443,42545.31,38.56,0.1261,164,12,Luxury
+PRD-0444,Tyres Itaque Plus,Auto Parts,Tyres,SKU-AUT-00444,32000.36,5.3,0.0158,200,4,Luxury
+PRD-0445,Personal Care Aperiam Pro,FMCG,Personal Care,SKU-FMC-00445,49119.86,8.48,0.0385,191,23,Luxury
+PRD-0446,Vitamins Quae Plus,Pharma,Vitamins,SKU-PHA-00446,619.21,10.56,0.0398,75,27,Mid-Range
+PRD-0447,Smartphones Aliquam Lite,Electronics,Smartphones,SKU-ELE-00447,2454.97,21.97,0.0588,115,17,Mid-Range
+PRD-0448,Kids Wear Perferendis ,Apparel,Kids Wear,SKU-APP-00448,27323.9,5.16,0.0151,176,26,Luxury
+PRD-0449,Beverages Officiis Pro,FMCG,Beverages,SKU-FMC-00449,22591.81,39.98,0.0453,91,10,Luxury
+PRD-0450,Smartphones Molestiae Pro,Electronics,Smartphones,SKU-ELE-00450,17123.32,44.41,0.073,150,30,Premium
+PRD-0451,Tablets Mollitia Pro,Electronics,Tablets,SKU-ELE-00451,29721.83,30.72,0.09,120,22,Luxury
+PRD-0452,Dairy Dicta Lite,FMCG,Dairy,SKU-FMC-00452,44493.18,7.94,0.0112,58,15,Luxury
+PRD-0453,Brakes Mollitia Pro,Auto Parts,Brakes,SKU-AUT-00453,13299.98,14.15,0.0276,110,20,Premium
+PRD-0454,Filters Perferendis Plus,Auto Parts,Filters,SKU-AUT-00454,7721.82,18.11,0.0491,179,22,Premium
+PRD-0455,Filters Quibusdam Plus,Auto Parts,Filters,SKU-AUT-00455,10023.76,1.38,0.0023,30,17,Premium
+PRD-0456,Tablets Accusantium Plus,Electronics,Tablets,SKU-ELE-00456,39254.58,23.6,0.1081,33,22,Luxury
+PRD-0457,Filters Quaerat Max,Auto Parts,Filters,SKU-AUT-00457,9284.82,44.29,0.1097,21,10,Premium
+PRD-0458,Sportswear Aliquid Lite,Apparel,Sportswear,SKU-APP-00458,13206.87,41.87,0.1364,188,23,Premium
+PRD-0459,Smartphones Soluta ,Electronics,Smartphones,SKU-ELE-00459,33423.65,40.43,0.1074,68,19,Luxury
+PRD-0460,Headphones Sed Max,Electronics,Headphones,SKU-ELE-00460,40929.34,20.99,0.066,156,30,Luxury
+PRD-0461,Household Soluta Pro,FMCG,Household,SKU-FMC-00461,14977.66,19.8,0.0874,138,20,Premium
+PRD-0462,Brakes Molestiae Max,Auto Parts,Brakes,SKU-AUT-00462,33892.87,31.05,0.046,54,7,Luxury
+PRD-0463,Beverages Repellat Max,FMCG,Beverages,SKU-FMC-00463,6352.99,21.23,0.1052,61,28,Premium
+PRD-0464,Dairy Eum Pro,FMCG,Dairy,SKU-FMC-00464,12931.42,45.55,0.2121,32,14,Premium
+PRD-0465,Filters Laboriosam Pro,Auto Parts,Filters,SKU-AUT-00465,27625.11,42.85,0.1319,189,21,Luxury
+PRD-0466,Brakes Consectetur ,Auto Parts,Brakes,SKU-AUT-00466,39095.2,5.71,0.0091,160,20,Luxury
+PRD-0467,Smartphones Quod ,Electronics,Smartphones,SKU-ELE-00467,28156.05,5.14,0.011,98,30,Luxury
+PRD-0468,Kids Wear Eum Pro,Apparel,Kids Wear,SKU-APP-00468,19183.02,24.33,0.0836,54,10,Premium
+PRD-0469,Womens Wear Voluptates Max,Apparel,Womens Wear,SKU-APP-00469,30931.31,34.07,0.0888,94,24,Luxury
+PRD-0470,Packaged Food Omnis Pro,FMCG,Packaged Food,SKU-FMC-00470,37300.2,46.05,0.2113,96,28,Luxury
+PRD-0471,Surgical Supplies Explicabo Pro,Pharma,Surgical Supplies,SKU-PHA-00471,14053.32,24.63,0.0932,68,6,Premium
+PRD-0472,Vitamins Reprehenderit ,Pharma,Vitamins,SKU-PHA-00472,38712.84,16.11,0.0631,175,4,Luxury
+PRD-0473,Household Esse ,FMCG,Household,SKU-FMC-00473,10608.96,41.22,0.1634,105,28,Premium
+PRD-0474,Cameras Quod Max,Electronics,Cameras,SKU-ELE-00474,39584.95,3.37,0.0129,44,26,Luxury
+PRD-0475,Brakes Enim Pro,Auto Parts,Brakes,SKU-AUT-00475,1495.96,9.72,0.0421,73,3,Mid-Range
+PRD-0476,Mens Wear Inventore Max,Apparel,Mens Wear,SKU-APP-00476,45905.65,35.26,0.0739,139,14,Luxury
+PRD-0477,Smartphones Accusamus Max,Electronics,Smartphones,SKU-ELE-00477,12134.81,24.49,0.0682,160,19,Premium
+PRD-0478,Surgical Supplies Tenetur Pro,Pharma,Surgical Supplies,SKU-PHA-00478,8217.51,44.74,0.1788,82,2,Premium
+PRD-0479,Mens Wear Laudantium Lite,Apparel,Mens Wear,SKU-APP-00479,8187.22,28.66,0.1393,175,9,Premium
+PRD-0480,Personal Care Ipsam Pro,FMCG,Personal Care,SKU-FMC-00480,32596.79,25.71,0.1146,131,6,Luxury
+PRD-0481,Dairy Aut Plus,FMCG,Dairy,SKU-FMC-00481,40053.2,11.27,0.0387,192,24,Luxury
+PRD-0482,Vitamins Optio Lite,Pharma,Vitamins,SKU-PHA-00482,44779.37,42.59,0.1208,129,11,Luxury
+PRD-0483,Brakes Tempora Plus,Auto Parts,Brakes,SKU-AUT-00483,19887.77,5.21,0.0159,153,22,Premium
+PRD-0484,Brakes Dolore Plus,Auto Parts,Brakes,SKU-AUT-00484,14169.71,34.25,0.1002,80,22,Premium
+PRD-0485,Surgical Supplies Consequatur Plus,Pharma,Surgical Supplies,SKU-PHA-00485,13094.29,35.58,0.1626,58,6,Premium
+PRD-0486,Tyres Et ,Auto Parts,Tyres,SKU-AUT-00486,44989.37,40.29,0.1696,113,23,Luxury
+PRD-0487,Prescription Drugs Aliquid Plus,Pharma,Prescription Drugs,SKU-PHA-00487,36078.1,32.8,0.1637,117,14,Luxury
+PRD-0488,Mens Wear Illum Plus,Apparel,Mens Wear,SKU-APP-00488,29172.03,49.74,0.2121,195,24,Luxury
+PRD-0489,Dairy Aliquam Plus,FMCG,Dairy,SKU-FMC-00489,31933.76,23.84,0.1135,139,11,Luxury
+PRD-0490,Dairy Eius Plus,FMCG,Dairy,SKU-FMC-00490,9097.74,4.97,0.0075,195,27,Premium
+PRD-0491,Tyres Ex Lite,Auto Parts,Tyres,SKU-AUT-00491,47348.82,44.99,0.1628,100,9,Luxury
+PRD-0492,Vitamins Dicta Plus,Pharma,Vitamins,SKU-PHA-00492,39415.12,16.63,0.034,128,29,Luxury
+PRD-0493,Headphones Esse ,Electronics,Headphones,SKU-ELE-00493,2731.16,31.76,0.1055,28,17,Mid-Range
+PRD-0494,Dairy Maxime Max,FMCG,Dairy,SKU-FMC-00494,6034.81,34.07,0.1063,23,29,Premium
+PRD-0495,Beverages Ullam Max,FMCG,Beverages,SKU-FMC-00495,49617.78,17.2,0.0851,46,12,Luxury
+PRD-0496,Packaged Food Reprehenderit Pro,FMCG,Packaged Food,SKU-FMC-00496,24404.66,31.59,0.0539,11,16,Luxury
+PRD-0497,Prescription Drugs Animi Max,Pharma,Prescription Drugs,SKU-PHA-00497,38071.6,8.51,0.0345,32,6,Luxury
+PRD-0498,Filters Delectus Max,Auto Parts,Filters,SKU-AUT-00498,31692.7,20.23,0.0983,11,3,Luxury
+PRD-0499,Tyres Modi ,Auto Parts,Tyres,SKU-AUT-00499,36546.42,47.51,0.217,58,2,Luxury
+PRD-0500,Laptops Quae Pro,Electronics,Laptops,SKU-ELE-00500,11351.97,43.86,0.0986,108,18,Premium
